@@ -48,7 +48,8 @@ So, if we fix one of the numbers, say `x`, we have to scan the entire array to f
 The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
 </details>
 
+---
 
-_LeetCode URL_: https://leetcode.com/problems/two-sum/description/
-
-_Wiki_: https://leetcode.doocs.org/en/lc/1/
+Links:
+* _LeetCode URL_: https://leetcode.com/problems/two-sum/description/
+* _Wiki_: https://leetcode.doocs.org/en/lc/1/
