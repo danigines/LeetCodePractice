@@ -1,8 +1,8 @@
 # 1. Two Sum
 
-![Easy](../../src/images/badges/difficulty/easy.svg)
-![Array](../../src/images/badges/topics/array.svg)
-![Hash Table](../../src/images/badges/topics/hash-table.svg)
+[![easy](../../src/images/badges/difficulty/easy.svg)](../../src/md/difficulty/easy.md)
+[![array](../../src/images/badges/topics/array.svg)](../../src/md/topics/Array.md)
+[![hash-table](../../src/images/badges/topics/hash-table.svg)](../../src/md/topics/Hash_Table.md)
 
 Given an array of integers `nums` and an integer `target`, return _indices of two different elements whose values add up to `target`_.
 

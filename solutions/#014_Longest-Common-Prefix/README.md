@@ -1,9 +1,9 @@
 # 14. Longest Common Prefix
 
-![Easy](../../src/images/badges/difficulty/easy.svg)
-![Array](../../src/images/badges/topics/array.svg)
-![String](../../src/images/badges/topics/string.svg)
-![Trie](../../src/images/badges/topics/trie.svg)
+[![easy](../../src/images/badges/difficulty/easy.svg)](../../src/md/difficulty/easy.md)
+[![array](../../src/images/badges/topics/array.svg)](../../src/md/topics/Array.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
+[![trie](../../src/images/badges/topics/trie.svg)](../../src/md/topics/Trie.md)
 
 Write a function to find the longest common prefix string among an array of strings.
 

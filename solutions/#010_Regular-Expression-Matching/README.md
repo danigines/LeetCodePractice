@@ -1,9 +1,9 @@
 # 10. Regular Expression Matching
 
-![Hard](../../src/images/badges/difficulty/dard.svg)
-![String](../../src/images/badges/topics/string.svg)
-![DynamicProgramming](../../src/images/badges/topics/dynamic-programming.svg)
-![Recursion](../../src/images/badges/topics/recursion.svg)
+[![hard](../../src/images/badges/difficulty/hard.svg)](../../src/md/difficulty/hard.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
+[![dynamic-programming](../../src/images/badges/topics/dynamic-programming.svg)](../../src/md/topics/Dynamic_Programming.md)
+[![recursion](../../src/images/badges/topics/recursion.svg)](../../src/md/topics/Recursion.md)
 
 Given an input string `s` and a pattern `p`, implement regular expression matching with support for `'.'` and `'*'`.
 

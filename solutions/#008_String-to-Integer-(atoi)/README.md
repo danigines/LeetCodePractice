@@ -1,7 +1,7 @@
 # 8. String to Integer (atoi)
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![String](../../src/images/badges/topics/string.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
 
 Implement the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer.
 

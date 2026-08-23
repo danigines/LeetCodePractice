@@ -1,7 +1,7 @@
 # 9. Palindrome Number
 
-![Easy](../../src/images/badges/difficulty/easy.svg)
-![Math](../../src/images/badges/topics/math.svg)
+[![easy](../../src/images/badges/difficulty/easy.svg)](../../src/md/difficulty/easy.md)
+[![math](../../src/images/badges/topics/math.svg)](../../src/md/topics/Math.md)
 
 Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` otherwise.
 

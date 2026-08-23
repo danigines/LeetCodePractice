@@ -1,14 +1,14 @@
 # 13. Roman to Integer
 
-![Easy](../../src/images/badges/difficulty/easy.svg)
-![Hash Table](../../src/images/badges/topics/hash-table.svg)
-![Math](../../src/images/badges/topics/math.svg)
-![String](../../src/images/badges/topics/string.svg)
+[![easy](../../src/images/badges/difficulty/easy.svg)](../../src/md/difficulty/easy.md)
+[![hash-table](../../src/images/badges/topics/hash-table.svg)](../../src/md/topics/Hash_Table.md)
+[![math](../../src/images/badges/topics/math.svg)](../../src/md/topics/Math.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
 
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 | Symbol | Value |
-| ------ | :---- |
+| :----- | :---- |
 | I | 1 |
 | V | 5 |
 | X | 10 |

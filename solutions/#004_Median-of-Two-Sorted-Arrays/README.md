@@ -1,9 +1,9 @@
 # 4. Median of Two Sorted Arrays
 
-![Hard](../../src/images/badges/difficulty/hard.svg)
-![Array](../../src/images/badges/topics/array.svg)
-![Binary-Search](../../src/images/badges/topics/binary-search.svg)
-![DivideAndConquer](../../src/images/badges/topics/divide-and-conquer.svg)
+[![hard](../../src/images/badges/difficulty/hard.svg)](../../src/md/difficulty/hard.md)
+[![array](../../src/images/badges/topics/array.svg)](../../src/md/topics/Array.md)
+[![binary-search](../../src/images/badges/topics/binary-search.svg)](../../src/md/topics/Binary_Search.md)
+[![divide-and-conquer](../../src/images/badges/topics/divide-and-conquer.svg)](../../src/md/topics/Divide_and_Conquer.md)
 
 Given two sorted arrays `nums1` and `nums2` of sizes `m` and `n`, return the median of the two sorted arrays.
 

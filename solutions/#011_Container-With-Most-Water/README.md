@@ -1,9 +1,9 @@
 # 11. Container With Most Water
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![Array](../../src/images/badges/topics/array.svg)
-![TwoPointers](../../src/images/badges/topics/two-pointers.svg)
-![Greedy](../../src/images/badges/topics/Greedy.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![array](../../src/images/badges/topics/array.svg)](../../src/md/topics/Array.md)
+[![two-pointers](../../src/images/badges/topics/two-pointers.svg)](../../src/md/topics/Two_Pointers.md)
+[![greedy](../../src/images/badges/topics/greedy.svg)](../../src/md/topics/Greedy.md)
 
 You are given an integer array `height` of length `n`. There are `n` vertical lines where the endpoints of the `i`th line are `(i, 0)` and `(i, height[i])`.
 

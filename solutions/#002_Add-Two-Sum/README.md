@@ -1,9 +1,9 @@
 # 2. Add Two Numbers
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![LinkedList](../../src/images/badges/topics/linked-list.svg)
-![Math](../../src/images/badges/topics/math.svg)
-![Recursion](../../src/images/badges/topics/recursion.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![linked-list](../../src/images/badges/topics/linked-list.svg)](../../src/md/topics/Linked_List.md)
+[![math](../../src/images/badges/topics/math.svg)](../../src/md/topics/Math.md)
+[![recursion](../../src/images/badges/topics/recursion.svg)](../../src/md/topics/Recursion.md)
 
 You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 

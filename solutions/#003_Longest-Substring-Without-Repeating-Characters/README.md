@@ -1,9 +1,9 @@
 # 3. Longest Substring Without Repeating Characters
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![HashTable](../../src/images/badges/topics/hash-table.svg)
-![String](../../src/images/badges/topics/string.svg)
-![SlidingWindow](../../src/images/badges/topics/sliding-window.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![hash-table](../../src/images/badges/topics/hash-table.svg)](../../src/md/topics/Hash_Table.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
+[![sliding-window](../../src/images/badges/topics/sliding-window.svg)](../../src/md/topics/Sliding_Window.md)
 
 Given a string `s`, find the length of the longest substring without repeating characters.
 

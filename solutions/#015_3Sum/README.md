@@ -1,9 +1,9 @@
 # 15. 3Sum
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![Array](../../src/images/badges/topics/array.svg)
-![TwoPointers](../../src/images/badges/topics/two-pointers.svg)
-![Sorting](../../src/images/badges/topics/sorting.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![array](../../src/images/badges/topics/array.svg)](../../src/md/topics/Array.md)
+[![two-pointers](../../src/images/badges/topics/two-pointers.svg)](../../src/md/topics/Two_Pointers.md)
+[![sorting](../../src/images/badges/topics/sorting.svg)](../../src/md/topics/Sorting.md)
 
 Given an integer array `nums`, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j` and `nums[i] + nums[j] + nums[k] == 0`.
 

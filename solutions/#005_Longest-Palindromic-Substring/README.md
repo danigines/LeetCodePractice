@@ -1,10 +1,10 @@
 # 5. Longest Palindromic Substring
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![TwoPointers](../../src/images/badges/topics/two-pointers.svg)
-![String](../../src/images/badges/topics/string.svg)
-![DynamicProgramming](../../src/images/badges/topics/dynamic-programming.svg)
-![DivideAndConquer](../../src/images/badges/topics/divide-and-conquer.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![two-pointers](../../src/images/badges/topics/two-pointers.svg)](../../src/md/topics/Two_Pointers.md)
+[![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
+[![dynamic-programming](../../src/images/badges/topics/dynamic-programming.svg)](../../src/md/topics/Dynamic_Programming.md)
+[![divide-and-conquer](../../src/images/badges/topics/divide-and-conquer.svg)](../../src/md/topics/Divide_and_Conquer.md)
 
 Given a string `s`, return the longest palindromic substring in `s`.
 

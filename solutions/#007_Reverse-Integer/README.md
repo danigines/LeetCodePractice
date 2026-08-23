@@ -1,7 +1,7 @@
 # 7. Reverse Integer
 
-![Medium](../../src/images/badges/difficulty/medium.svg)
-![Math](../../src/images/badges/topics/math.svg)
+[![medium](../../src/images/badges/difficulty/medium.svg)](../../src/md/difficulty/medium.md)
+[![math](../../src/images/badges/topics/math.svg)](../../src/md/topics/Math.md)
 
 Given a signed 32-bit integer `x`, return `x` with its digits reversed.
 If reversing `x` causes the value to go outside the signed 32-bit integer range: `[-2^31, 2^31 - 1]` return `0`.
