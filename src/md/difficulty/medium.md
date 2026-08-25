@@ -13,3 +13,4 @@
 | [011. Container With Most Water](../../../solutions/%23011_Container-With-Most-Water) |
 | [012. Integer to Roman](../../../solutions/%23012_Integer-to-Roman) |
 | [015. 3Sum](../../../solutions/%23015_3Sum) |
+| [016. 3Sum Closest](../../../solutions/%23016_3Sum_Closest) |
