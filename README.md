@@ -10,6 +10,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 
 ### 🧠 Filter by Topic
 - [Array](./src/md/topics/Array.md)
+- [Backtracking](./src/md/topics/Backtracking.md)
 - [Binary Search](./src/md/topics/Binary_Search.md)
 - [Divide and Conquer](./src/md/topics/Divide_and_Conquer.md)
 - [Dynamic Programming](./src/md/topics/Dynamic_Programming.md)
@@ -36,7 +37,10 @@ solutions/
 │
 └── #001_Two-Sum/
     ├── README.md
-    └── Primary_solution.swift
+    └── swift/
+        ├── README.md
+        ├── Primary_solution.swift
+        └── Second_best_solution.swift
 ```
 
 ## 🏷️ Repository Structure
