@@ -9,3 +9,4 @@
 | [013. Roman to Integer](../../../solutions/%23013_Roman-to-Integer) |
 | [014. Longest Common Prefix](../../../solutions/%23014_Longest-Common-Prefix) |
 | [020. Valid Parentheses](../../../solutions/%23020_Valid-Parentheses) |
+| [021. Merge Two Sorted Lists](../../../solutions/%23021_Merge-Two-Sorted-Lists) |
