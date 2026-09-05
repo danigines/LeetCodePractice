@@ -17,3 +17,4 @@
 | [017. Letter Combinations of a Phone Number](../../../solutions/%23017_Letter-Combinations-of-a-Phone-Number) |
 | [018. 4Sum](../../../solutions/%23018_4Sum) |
 | [019. Remove Nth Node From End of List](../../../solutions/%23019_Remove-Nth-Node-From-End-of-List) |
+| [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |

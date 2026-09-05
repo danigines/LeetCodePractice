@@ -7,6 +7,7 @@
   "topics": {
     "Array": "topics/array.svg",
     "String": "topics/string.svg",
+    "Bracket Sequences": "topics/bracket-sequences.svg",
     "Hash Table": "topics/hash-table.svg",
     "Math": "topics/math.svg",
     "Dynamic Programming": "topics/dynamic-programming.svg",

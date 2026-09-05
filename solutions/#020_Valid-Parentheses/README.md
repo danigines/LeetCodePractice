@@ -3,6 +3,7 @@
 [![easy](../../src/images/badges/difficulty/easy.svg)](../../src/md/difficulty/easy.md)
 [![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
 [![stack](../../src/images/badges/topics/stack.svg)](../../src/md/topics/Stack.md)
+[![bracket-sequences](../../src/images/badges/topics/bracket-sequences.svg)](../../src/md/topics/Bracket_Sequences.md)
 
 Given a string `s` containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 

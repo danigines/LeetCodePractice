@@ -12,6 +12,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Array](./src/md/topics/Array.md)
 - [Backtracking](./src/md/topics/Backtracking.md)
 - [Binary Search](./src/md/topics/Binary_Search.md)
+- [Bracket Sequences](./src/md/topics/Bracket_Sequences.md)
 - [Divide and Conquer](./src/md/topics/Divide_and_Conquer.md)
 - [Dynamic Programming](./src/md/topics/Dynamic_Programming.md)
 - [Greedy](./src/md/topics/Greedy.md)

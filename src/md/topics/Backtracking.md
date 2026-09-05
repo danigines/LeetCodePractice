@@ -3,3 +3,4 @@
 | # Problem |
 |:----|
 | [017. Letter Combinations of a Phone Number](../../../solutions/%23017_Letter-Combinations-of-a-Phone-Number) |
+| [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
