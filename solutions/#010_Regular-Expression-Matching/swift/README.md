@@ -155,7 +155,7 @@ The recursive solution is usually easier for initially understanding the relatio
 | When to use it | When you want to optimize memory and avoid recursion depth issues. | When you want to derive the recurrence clearly first. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| 1D DP | `O(m × n)` | `O(n)` | Evaluate each string/pattern combination and reuse only a single row of states. |
-| Recursion + Memoization | `O(m × n)` | `O(m × n)` | Each pair of indices is calculated once and stored in the memoization matrix. |
+| 1D DP | `O(m × n)` | `O(n)` | `m` is the length of `s` and `n` is the length of `p`. Each string-pattern state is evaluated while only one row of `n` states is retained. |
+| Recursion + Memoization | `O(m × n)` | `O(m × n)` | `m` and `n` are the string and pattern lengths. Each pair of indices is calculated once and stored in the memoization table. |

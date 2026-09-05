@@ -74,7 +74,7 @@ if index > 0 && sortedNums[index] == sortedNums[index - 1] {
     continue
 }
 ```
-After finding a solution, we also skip duplicate values ​​for `left` and `right`.
+After finding a solution, we also skip duplicate values for `left` and `right`.
 
 For example:
 ```
@@ -100,7 +100,7 @@ positive + positive + positive > 0
 and we can never get 0.
 
 That is why:
-``` swift 
+``` swift
 if sortedNums[index] > 0 {
     break
 }
@@ -176,11 +176,11 @@ Both achieve `O(n²)` complexity, but Two Pointers avoids creating a new `Set` f
 | Aspect | Optimal solution: Sorting + Two Pointers | Second solution: Hash Set |
 |:-------|:-------:|:-------:|
 | Advantages | `O(n²)`; minimal auxiliary space; natural handling of duplicates; fully exploits the ordering. | It directly reuses the "complement" idea from Two Sum. |
-| Disadvantages | It requires careful reasoning regarding the movement of the pointers and the duplicates. | Usa memoria adicional y el manejo de duplicados resulta menos elegante. |
+| Disadvantages | It requires careful reasoning regarding pointer movement and duplicates. | It uses additional memory, and duplicate handling is less elegant. |
 | When to use it | When the arrangement can be ordered and you need to find unique combinations. | When you want to explicitly reduce each iteration to a Two Sum problem using hashing. |
 
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Sorting + Two Pointers | `O(n²)` | `O(1)` auxiliar* | One element is fixed, and the other two are sought using a linear search. |
-| Hash Set | `O(n²)` | `O(n)` | For each anchor, the remaining ones are iterated over, and values ​​are stored in a `Set`. |
+| Sorting + Two Pointers | `O(n²)` | `O(n)` | `n` is the number of elements in `nums`. Each anchor uses a linear two-pointer scan, while `sorted()` creates an `n`-element copy. |
+| Hash Set | `O(n²)` | `O(n)` | `n` is the number of elements. Each anchor scans the remaining values and stores up to `n` values in a `Set`. |

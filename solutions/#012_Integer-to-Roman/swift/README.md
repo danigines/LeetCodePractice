@@ -37,7 +37,7 @@ Consider a Greedy approach when:
 - you need to build a solution gradually
 - there is a clearly better option at each step
 - choosing that option does not prevent you from reaching the correct solution
-- values ​​can be processed in a natural order, typically from largest to smallest
+- values can be processed in a natural order, typically from largest to smallest
 
 The key question here is:
 > What is the largest Roman numeral I can use right now?
@@ -82,7 +82,7 @@ MCMXCIV
 ```
 
 ### How does this differ from the Greedy approach?
-The Greedy approach constructs the solution by processing values ​​from largest to smallest.
+The Greedy approach constructs the solution by processing values from largest to smallest.
 
 This alternative requires no decision-making during execution: each decimal digit is converted using a predefined table.
 
@@ -93,10 +93,10 @@ It is highly efficient, but relies heavily on the range and Roman numeral rules 
 |:-------|:-------:|:-------:|
 | Advantages | It generalizes the Roman system well; it directly reflects the choice of the highest valid value. | Very compact, with direct access to each decimal position. |
 | Disadvantages | It requires going through a table and understanding why the greedy approach is valid. | It relies on specific tables and is less widespread. |
-| When to use it | When you want to model the problem using greedy values ​​and decisions. | When the domain is small, fixed, and can be easily precalculated. |
+| When to use it | When you want to model the problem using greedy values and decisions. | When the domain is small, fixed, and can be easily precalculated. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Greedy | `O(1)` | `O(1)` | The input range and the symbol table have a fixed size. |
 | Decimal Lookup | `O(1)` | `O(1)` | It only processes the four decimal places using constant tables. |

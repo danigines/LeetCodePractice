@@ -2,7 +2,7 @@
 
 | # Problem |
 |:----|
-| [002. Add Two Numbers](../../../solutions/%23002_Add-Two-Sum) |
+| [002. Add Two Numbers](../../../solutions/%23002_Add-Two-Numbers) |
 | [007. Reverse Integer](../../../solutions/%23007_Reverse-Integer) |
 | [009. Palindrome Number](../../../solutions/%23009_Palindrome-Number) |
 | [012. Integer to Roman](../../../solutions/%23012_Integer-to-Roman) |

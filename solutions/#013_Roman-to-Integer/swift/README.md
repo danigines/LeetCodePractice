@@ -140,5 +140,5 @@ The logic remains linear, but it uses additional memory.
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Right-to-Left | `O(n)` | `O(1)` | Each symbol is processed once, and the map always has seven entries. |
-| B | `O(n)` | `O(n)` | The traversal is linear, but `Array(s)` creates a copy of the characters. |
+| Right-to-Left | `O(n)` | `O(1)` | `n` is the number of Roman symbols. Each symbol is processed once, and the map always has seven entries. |
+| Left-to-Right | `O(n)` | `O(n)` | `n` is the number of Roman symbols. The traversal is linear, while `Array(s)` stores all `n` characters. |

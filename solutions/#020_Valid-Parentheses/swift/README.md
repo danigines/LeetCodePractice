@@ -150,5 +150,5 @@ Both are `O(n)`, but the first has fewer pieces and avoids the Hash Map.
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Expected Closings Stack | `O(n)` | `O(n)` | Each character enters or leaves the Stack at most once. |
-| Opening Stack + Dictionary | `O(n)` | `O(n)` | Traverse the string once and use constant searches on a fixed-size map. |
+| Expected Closings Stack | `O(n)` | `O(n)` | `n` is the number of characters in `s`. Each character enters or leaves a stack containing at most `n` elements. |
+| Opening Stack + Dictionary | `O(n)` | `O(n)` | `n` is the number of characters. The stack can contain up to `n` openings, while the fixed-size map uses constant space. |

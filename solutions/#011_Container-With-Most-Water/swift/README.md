@@ -90,7 +90,7 @@ The Two Pointers approach leverages the limiting height to decide which end to d
 | When to use it | When a property allows one of the extremes to be discarded after each comparison. | As an initial solution or with very small inputs. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| Two Pointers | `O(n)` | `O(1)` | Each pointer moves at most once per position. |
-| Brute Force | `O(n²)` | `O(1)` | Evaluate all possible pairs of lines. |
+| Two Pointers | `O(n)` | `O(1)` | `n` is the number of heights. Each pointer moves across the array at most once. |
+| Brute Force | `O(n²)` | `O(1)` | `n` is the number of heights. Every possible pair of lines is evaluated. |

@@ -27,7 +27,7 @@ You can return the answer in any order.
 > 
 > **Output**: [0,1]
 
-### Constraints
+## Constraints
 - `2 <= nums.count <= 10^4`
 - `-10^9 <= nums[i] <= 10^9`
 - `-10^9 <= target <= 10^9`

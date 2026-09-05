@@ -9,7 +9,7 @@
  * }
  */
 
- class Solution {
+class Solution {
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
         // If one list is exhausted, the other list is already the correct remainder.
         guard let first = list1 else {

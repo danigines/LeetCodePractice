@@ -144,5 +144,5 @@ and it avoids directly handling `String.Index`.
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Horizontal Scanning | `O(n × m)` | `O(1)` | It progressively reduces a candidate prefix and compares it with each string. |
-| Vertical Scanning | `O(n × m)` | `O(1)` | Compare each possible position of the prefix against all the strings. |
+| Horizontal Scanning | `O(n × m)` | `O(1)` | `n` is the number of strings and `m` is the shortest relevant string length. The candidate prefix is compared with each string. |
+| Vertical Scanning | `O(n × m)` | `O(1)` | `n` is the number of strings and `m` is the first string's length. Each possible prefix position is compared across all strings. |

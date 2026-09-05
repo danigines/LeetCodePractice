@@ -6,7 +6,6 @@
 
 Given the `head` of a linked list, remove the `nᵗʰ` node from the end of the list and return its head.
 
-## Example 1
 ![src](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
 ### Example 1
 > **Input**: head = [1,2,3,4,5], n = 2

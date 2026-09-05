@@ -27,9 +27,9 @@ Left half | Right half
 ```
 such that:
 ```
-all values ​​on the left
+all values on the left
 <=
-all values ​​on the right
+all values on the right
 ```
 Let's assume:
 ``` swift
@@ -52,7 +52,7 @@ and the right half:
 The largest value on the left is `2`, which is the median.
 
 ### What do we need to compare?
-We don't need to check every element. Only the values ​​around each partition matter:
+We don't need to check every element. Only the values around each partition matter:
 ```
 firstLeft  | firstRight
 secondLeft | secondRight
@@ -75,7 +75,7 @@ we have taken too many elements from `nums1`, so we move the partition to the le
 
 This behavior allows for the use of **Binary Search**.
 
-### What do `Int.min` and `Int.max do?
+### What do `Int.min` and `Int.max` do?
 A partition can be before the first element:
 ```
 [] | [1, 2]
@@ -89,7 +89,7 @@ In those cases, there is no actual value on one of the sides. We use:
 Int.min
 Int.max
 ```
-as boundary values ​​to avoid multiple special cases.
+as boundary values to avoid multiple special cases.
 
 ### How to recognize this pattern
 Consider Binary Search on a partition when:
@@ -142,7 +142,7 @@ and we calculate:
 | When to use it | When you need to fully leverage the ordering of the arrays and there is a logarithmic requirement. | When simplicity is a priority and `O(m + n)` is acceptable. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| `Binary Search` | `O(log(min(m, n)))` | `O(1)` | Reduce a la mitad el espacio de posibles particiones en cada iteración. |
-| `Merge` | `O(n)` | `O(1)` | Advance sequentially through both arrays until the median position is reached. |
+| `Binary Search` | `O(log(min(m, n)))` | `O(1)` | `m` and `n` are the lengths of the two arrays. Each iteration halves the possible partitions of the shorter array. |
+| `Merge` | `O(m + n)` | `O(1)` | `m` and `n` are the array lengths. In the worst case, the traversal advances through half of their combined elements, which is linear in `m + n`. |

@@ -102,7 +102,7 @@ It is easier to read, but it does not meet the follow-up requirement of solving 
 | When to use it | When a purely arithmetic and efficient solution is desired. | When conversion to `String` is permitted and simplicity is prioritized. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| Reverse Half | `O(log₁₀ n)` | `O(1)` | It processes only part of the digits and does not create additional structures. |
-| String + Two Pointers | `O(log₁₀ n)` | `O(log₁₀ n)` | It converts all the digits into characters and stores them in an array. |
+| Reverse Half | `O(log₁₀ n)` | `O(1)` | `n` is the absolute input value, so `log₁₀ n` is its digit count. Only half of those digits are reversed. |
+| String + Two Pointers | `O(log₁₀ n)` | `O(log₁₀ n)` | `n` is the absolute input value. All `log₁₀ n` digits are converted into and stored as characters. |

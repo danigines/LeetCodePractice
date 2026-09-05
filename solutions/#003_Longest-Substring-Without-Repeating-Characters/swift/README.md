@@ -117,5 +117,5 @@ Both solutions are linear, but the `Dictionary` based approach tends to be more 
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| `Dictionary` | Average `O(n)` | `O(min(n, k))` | Each character is processed once, and the dictionary allows skipping directly past the duplicate. |
-| `Set` | Average`O(n)` | `O(n)` | Cada carácter entra y sale de la ventana como máximo una vez; además se crea `array(s)`. |
+| `Dictionary` | Average `O(n)` | `O(min(n, k))` | `n` is the length of `s` and `k` is the character-set size. Each character is processed once, and the dictionary stores at most `min(n, k)` entries. |
+| `Set` | Average `O(n)` | `O(n)` | `n` is the length of `s`. Each character enters and leaves the window at most once, while `Array(s)` creates a linear-size copy. |

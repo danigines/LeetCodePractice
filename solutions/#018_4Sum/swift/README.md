@@ -69,7 +69,7 @@ we store the quadruple.
 We must eliminate duplicates at three levels:
 - repeated `first` values
 - repeated `second` values
-- repeated `left` and `right` values ​​after finding a response
+- repeated `left` and `right` values after finding a response
 
 For example:
 ```
@@ -82,11 +82,11 @@ should only generate:
 
 ### Why do we use `Int64`?
 
-The elements can have values ​​up to:
+The elements can have values up to:
 ```
 10⁹
 ```
-Four values ​​could add up to:
+Four values could add up to:
 ```
 4 × 10⁹
 ```
@@ -165,12 +165,12 @@ That's why it's less efficient.
 ## Comparing solutions
 | Aspect | Optimal solution: Two Pointers | Second solution: Binary Search |
 |:-------|:-------:|:-------:|
-| Advantages | `O(n³)`; natural duplicate control; direct extension of 3Sum. | Conceptually simple: set three values ​​and find the fourth. |
-| Disadvantages | It requires controlling duplicates at several levels. | Add `log n` and you need a `Se`t to simplify duplicates. |
-| When to use it | When you can sort and reduce the problem to Two Sum. | When you want to practice searching for plugins using Binary Search. |
+| Advantages | `O(n³)`; natural duplicate control; direct extension of 3Sum. | Conceptually simple: set three values and find the fourth. |
+| Disadvantages | It requires controlling duplicates at several levels. | Adds a `log n` factor and needs a `Set` to simplify duplicate handling. |
+| When to use it | When you can sort and reduce the problem to Two Sum. | When you want to practice searching for complements using Binary Search. |
 
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Two Pointers | `O(n³)` | `O(1)` | Fix two values ​​and find the other two using a linear path. |
-| Binary Search | `O(n³ log n)` | `O(k)` | Set three values ​​and search for the fourth using Binary Search. |
+| Two Pointers | `O(n³)` | `O(n)` | `n` is the number of elements in `nums`. Two values are fixed and the other two use a linear scan; `sorted()` creates an `n`-element copy. |
+| Binary Search | `O(n³ log n)` | `O(n + q)` | `n` is the number of elements and `q` is the number of unique quadruplets. Three values are fixed, the fourth uses Binary Search, and the sorted copy plus result `Set` use `O(n + q)` space. |

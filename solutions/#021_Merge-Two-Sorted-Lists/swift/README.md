@@ -19,7 +19,7 @@ we repeatedly choose the smaller current value:
 
 A dummy node lets us build the result without treating the first node as a special case.
 
-```swift
+``` swift
 let dummy = ListNode(0)
 ```
 
@@ -31,7 +31,7 @@ dummy → 1 → 1 → 2 → 3 → 4 → 4
 
 The dummy value is not part of the actual result, so we return:
 
-```swift
+``` swift
 dummy.next
 ```
 
@@ -61,7 +61,7 @@ Remaining:
 
 There is nothing left to compare, so we can connect the remainder directly:
 
-```swift
+``` swift
 tail?.next = first ?? second
 ```
 
@@ -110,7 +110,7 @@ Each recursive call solves a smaller version of the same problem.
 
 If one list is empty:
 
-```swift
+``` swift
 guard let first = list1 else {
     return list2
 }

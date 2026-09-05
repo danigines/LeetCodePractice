@@ -21,7 +21,7 @@ However, not every sequence of six parentheses is valid. We avoid invalid branch
 
 We can add `"("` while:
 
-```swift
+``` swift
 openCount < n
 ```
 
@@ -31,7 +31,7 @@ This guarantees that we never use more than the available `n` opening parenthese
 
 We can add `")"` only while:
 
-```swift
+``` swift
 closeCount < openCount
 ```
 
@@ -57,7 +57,7 @@ Choose → Explore → Undo
 
 For an opening parenthesis:
 
-```swift
+``` swift
 currentCombination.append("(")
 backtrack(openCount + 1, closeCount)
 currentCombination.removeLast()
@@ -69,7 +69,7 @@ Removing the last character restores the previous state so the next valid decisi
 
 When all opening and closing parentheses have been used:
 
-```swift
+``` swift
 openCount == n && closeCount == n
 ```
 
@@ -118,7 +118,7 @@ i = 2 → ( dp[2] ) dp[0]
 
 We start with:
 
-```swift
+``` swift
 combinationsByPairCount[0] = [""]
 ```
 

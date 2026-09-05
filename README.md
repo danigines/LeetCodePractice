@@ -25,6 +25,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Recursion](./src/md/topics/Recursion.md)
 - [Sliding Window](./src/md/topics/Sliding_Window.md)
 - [Sorting](./src/md/topics/Sorting.md)
+- [Stack](./src/md/topics/Stack.md)
 - [String](./src/md/topics/String.md)
 - [Trie](./src/md/topics/Trie.md)
 - [Two Pointers](./src/md/topics/Two_Pointers.md)
@@ -53,7 +54,10 @@ LeetCodePractice/
 ├── solutions/
 │   ├── #001_Two-Sum/
 │   │   ├── README.md
-│   │   └── Primary_solution.swift
+│   │   └── swift/
+│   │       ├── README.md
+│   │       ├── Primary_solution.swift
+│   │       └── Second_best_solution.swift
 │   │
 │   └── ...
 │

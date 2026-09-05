@@ -1,4 +1,4 @@
-final class Solution {
+class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         // Maps each previously visited value to its index.
         var indexByValue: [Int: Int] = [:]

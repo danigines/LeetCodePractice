@@ -4,7 +4,7 @@
 [![two-pointers](../../src/images/badges/topics/two-pointers.svg)](../../src/md/topics/Two_Pointers.md)
 [![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
 [![dynamic-programming](../../src/images/badges/topics/dynamic-programming.svg)](../../src/md/topics/Dynamic_Programming.md)
-[![divide-and-conquer](../../src/images/badges/topics/divide-and-conquer.svg)](../../src/md/topics/Divide_and_Conquer.md)
+[![manacher](../../src/images/badges/topics/manacher.svg)](../../src/md/topics/Manacher.md)
 
 Given a string `s`, return the longest palindromic substring in `s`.
 
@@ -22,7 +22,7 @@ Given a string `s`, return the longest palindromic substring in `s`.
 > 
 > **Output**: "bb"
 
-### Constraints
+## Constraints
 - `1 <= s.length <= 1000`
 - `s` consists only of digits and English letters.
 

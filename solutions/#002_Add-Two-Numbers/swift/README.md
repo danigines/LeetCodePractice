@@ -105,5 +105,5 @@ a recursive solution may be viable.
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Iterative | `O(max(m, n))` | `O(1)` | Each node is processed once, and only references and temporary variables are maintained. |
-| Recursive | `O(max(m, n))` | `O(max(m, n))` | It processes each node once but maintains a call on the stack for each position. |
+| Iterative | `O(max(m, n))` | `O(1)` | `m` and `n` are the numbers of nodes in the two input lists. Each node is processed once, and only references and temporary variables are maintained. |
+| Recursive | `O(max(m, n))` | `O(max(m, n))` | `m` and `n` are the list lengths. Each call consumes a node position and remains on the call stack until returning. |

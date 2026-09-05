@@ -134,7 +134,7 @@ This makes the phases very clear, but it requires additional memory.
 | When to use it | When we want a compact and efficient parser. | When explicitly separating the stages improves readability. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| Single-pass | `O(n)` | `O(1)` | Each character is processed at most once without creating a copy of the string. |
-| Indexed phases | `O(n)` | `O(n)` | The traversal remains linear, but `Array(s)` stores all the characters. |
+| Single-pass | `O(n)` | `O(1)` | `n` is the number of characters in `s`. Each character is processed at most once without copying the string. |
+| Indexed phases | `O(n)` | `O(n)` | `n` is the number of characters. The traversal remains linear, while `Array(s)` stores all `n` characters. |

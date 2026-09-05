@@ -1,4 +1,4 @@
-final class Solution {
+class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         // Preserve original indices before sorting by value.
         let indexedValues = nums.enumerated()

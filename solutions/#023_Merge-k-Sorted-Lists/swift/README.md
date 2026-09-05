@@ -44,14 +44,14 @@ The heap never needs to contain every node. It stores at most one current candid
 
 The dummy node avoids treating the first result node as a special case:
 
-```swift
+``` swift
 let dummy = ListNode(0)
 var tail = dummy
 ```
 
 Every selected node is attached using the same operation:
 
-```swift
+``` swift
 tail.next = smallest
 tail = smallest
 ```

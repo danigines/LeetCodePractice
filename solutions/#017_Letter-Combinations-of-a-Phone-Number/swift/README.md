@@ -73,7 +73,7 @@ We start with:
 ```
 [""]
 ```
-For digit `2```:
+For digit `2`:
 ```
 ["a", "b", "c"]
 ```
@@ -113,5 +113,5 @@ That's why it typically uses more temporary memory.
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Backtracking | `O(n × 4ⁿ)` | `O(n)` | Explores all combinations keeping only the current route in memory. |
-| Iterative Expansion | `O(n × 4ⁿ)` | `O(n × 4ⁿ)` | It simultaneously maintains all generated partial combinations. |
+| Backtracking | `O(n × 4ⁿ)` | `O(n)` auxiliary | `n` is the number of input digits; each has at most four letters. Up to `4ⁿ` combinations of length `n` are generated, while the active path uses linear auxiliary space. |
+| Iterative Expansion | `O(n × 4ⁿ)` | `O(n × 4ⁿ)` | `n` is the number of digits. The algorithm constructs and simultaneously stores up to `4ⁿ` combinations of length `n`. |

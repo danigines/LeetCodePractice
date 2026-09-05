@@ -106,7 +106,5 @@ The solution using Fast & Slow Pointers achieves that position in a single trave
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Fast & Slow Pointers | `O(L)` | `O(1)` | It maintains a fixed separation and locates the node in a single pass. |
-| Two Passes | `O(n)` | `O(1)` | Cuenta los nodos y luego recorre nuevamente hasta la posición necesaria. |
-
-_Let `L` be the number of nodes._
+| Fast & Slow Pointers | `O(n)` | `O(1)` | `n` is the number of nodes. A fixed separation locates the target in one traversal using only node references. |
+| Two Passes | `O(n)` | `O(1)` | `n` is the number of nodes. The first pass counts them and the second reaches the removal position using only node references. |

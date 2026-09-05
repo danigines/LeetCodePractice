@@ -38,7 +38,7 @@ Write the code that will take a string and make this conversion given a number o
 > 
 > **Output**: "A"
 
-## Constraint
+## Constraints
 - `1 <= s.length <= 1000`
 - `s` consists of English letters (lower-case and upper-case), `','` and `'.'`
 - `1 <= numRows <= 1000`

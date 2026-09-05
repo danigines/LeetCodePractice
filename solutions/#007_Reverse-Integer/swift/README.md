@@ -116,7 +116,7 @@ The string-based version is more visually intuitive but requires additional memo
 | When to use it | When the problem requires efficient numerical manipulation or restricts larger types. | When text conversions are permitted and simplicity is prioritized. |
 
 ## Complexity comparison
- Solution | Time | Space | Reason |
+| Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
-| Arithmetic | `O(log₁₀ n)` | `O(1)` | Processes each digit once without creating additional structures. |
-| String | `O(log₁₀ n)` | `O(n)` | Procesa los mismos dígitos, pero los almacena en strings adicionales. |
+| Arithmetic | `O(log₁₀ n)` | `O(1)` | `n` is the absolute input value, so `log₁₀ n` is its number of decimal digits. Each digit is processed once without additional structures. |
+| String | `O(log₁₀ n)` | `O(log₁₀ n)` | `n` is the absolute input value. Its `log₁₀ n` digits are converted into and stored as characters. |

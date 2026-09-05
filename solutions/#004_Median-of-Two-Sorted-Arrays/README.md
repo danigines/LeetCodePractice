@@ -23,7 +23,7 @@ The overall runtime complexity should be `O(log(m + n))`.
 > 
 > **Explanation**: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
-### Constraints
+## Constraints
 - `nums1.length == m`
 - `nums2.length == n`
 - `0 <= m <= 1000`

@@ -135,11 +135,11 @@ That is why it introduces an additional `log n` factor.
 | Aspect | Optimal solution: Two Pointers | Second solution: Binary Search |
 |:-------|:-------:|:-------:|
 | Advantages | `O(n²)`; fully exploits the ordering; clear reduction to Two Sum Closest. | Reinforces the pattern for searching for complements and Binary Search. |
-| Disadvantages | It requires correctly justifying the `left` and `right` movement. | Add a `log n` factor and perform more searches. |
-| When to use it | When an ordered sum makes it possible to decide which pointer to move. | Cuando quieres buscar explícitamente el tercer valor requerido. |
+| Disadvantages | It requires correctly justifying the `left` and `right` movement. | Adds a `log n` factor and performs more searches. |
+| When to use it | When an ordered sum makes it possible to decide which pointer to move. | When you want to search explicitly for the required third value. |
 
 ## Complexity comparison
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
-| Two Pointers | `O(n²)` | `O(1)` | Fix an element and find the best partner using a linear scan. |
-| Binary Search | `O(n² log n)` | `O(1)` | Fix two elements and search for the third using binary search. |
+| Two Pointers | `O(n²)` | `O(n)` | `n` is the number of elements in `nums`. Each anchor uses a linear scan, while `sorted()` creates an `n`-element copy. |
+| Binary Search | `O(n² log n)` | `O(n)` | `n` is the number of elements. Two values are fixed and the third is found in `O(log n)`; the sorted copy uses linear space. |
