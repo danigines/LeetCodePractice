@@ -10,3 +10,4 @@
 | [014. Longest Common Prefix](../../../solutions/%23014_Longest-Common-Prefix) |
 | [020. Valid Parentheses](../../../solutions/%23020_Valid-Parentheses) |
 | [021. Merge Two Sorted Lists](../../../solutions/%23021_Merge-Two-Sorted-Lists) |
+| [026. Remove Duplicates from Sorted Array](../../../solutions/%23026_Remove-Duplicates-from-Sorted-Array) |
