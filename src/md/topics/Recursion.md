@@ -6,3 +6,4 @@
 | [010. Regular Expression Matching](../../../solutions/%23010_Regular-Expression-Matching) |
 | [021. Merge Two Sorted Lists](../../../solutions/%23021_Merge-Two-Sorted-Lists) |
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
+| [025. Reverse Nodes in k-Group](../../../solutions/%23025_Reverse-Nodes-in-k-Group) |

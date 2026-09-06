@@ -7,3 +7,4 @@
 | [021. Merge Two Sorted Lists](../../../solutions/%23021_Merge-Two-Sorted-Lists) |
 | [023. Merge k Sorted Lists](../../../solutions/%23023_Merge-k-Sorted-Lists) |
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
+| [025. Reverse Nodes in k-Group](../../../solutions/%23025_Reverse-Nodes-in-k-Group) |
