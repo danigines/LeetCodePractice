@@ -7,3 +7,4 @@
 | [009. Palindrome Number](../../../solutions/%23009_Palindrome-Number) |
 | [012. Integer to Roman](../../../solutions/%23012_Integer-to-Roman) |
 | [013. Roman to Integer](../../../solutions/%23013_Roman-to-Integer) |
+| [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |

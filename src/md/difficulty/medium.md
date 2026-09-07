@@ -19,3 +19,4 @@
 | [019. Remove Nth Node From End of List](../../../solutions/%23019_Remove-Nth-Node-From-End-of-List) |
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
+| [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
