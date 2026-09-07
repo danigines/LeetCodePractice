@@ -12,3 +12,4 @@
 | [021. Merge Two Sorted Lists](../../../solutions/%23021_Merge-Two-Sorted-Lists) |
 | [026. Remove Duplicates from Sorted Array](../../../solutions/%23026_Remove-Duplicates-from-Sorted-Array) |
 | [027. Remove Element](../../../solutions/%23027_Remove-Element) |
+| [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |
