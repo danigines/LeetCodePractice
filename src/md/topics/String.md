@@ -14,3 +14,4 @@
 | [020. Valid Parentheses](../../../solutions/%23020_Valid-Parentheses) |
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |
+| [030. Substring with Concatenation of All Words](../../../solutions/%23030_Substring-with-Concatenation-of-All-Words) |
