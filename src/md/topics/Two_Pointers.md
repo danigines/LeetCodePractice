@@ -9,3 +9,4 @@
 | [018. 4Sum](../../../solutions/%23018_4Sum) |
 | [019. Remove Nth Node From End of List](../../../solutions/%23019_Remove-Nth-Node-From-End-of-List) |
 | [026. Remove Duplicates from Sorted Array](../../../solutions/%23026_Remove-Duplicates-from-Sorted-Array) |
+| [027. Remove Element](../../../solutions/%23027_Remove-Element) |
