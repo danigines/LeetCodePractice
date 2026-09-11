@@ -11,3 +11,4 @@
 | [018. 4Sum](../../../solutions/%23018_4Sum) |
 | [026. Remove Duplicates from Sorted Array](../../../solutions/%23026_Remove-Duplicates-from-Sorted-Array) |
 | [027. Remove Element](../../../solutions/%23027_Remove-Element) |
+| [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |

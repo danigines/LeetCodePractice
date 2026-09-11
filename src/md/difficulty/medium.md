@@ -20,3 +20,4 @@
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
 | [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
+| [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
