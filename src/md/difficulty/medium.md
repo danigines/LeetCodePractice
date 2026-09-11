@@ -21,3 +21,4 @@
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
 | [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
 | [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
+| [033. Search in Rotated Sorted Array](../../../solutions/%23033_Search-in-Rotated-Sorted-Array) |

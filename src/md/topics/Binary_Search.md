@@ -3,3 +3,4 @@
 | # Problem |
 |:----|
 | [004. Median of Two Sorted Arrays](../../../solutions/%23004_Median-of-Two-Sorted-Arrays) |
+| [033. Search in Rotated Sorted Array](../../../solutions/%23033_Search-in-Rotated-Sorted-Array) |
