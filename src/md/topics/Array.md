@@ -14,3 +14,4 @@
 | [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
 | [033. Search in Rotated Sorted Array](../../../solutions/%23033_Search-in-Rotated-Sorted-Array) |
 | [034. Find First and Last Position of Element in Sorted Array](../../../solutions/%23034_Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
+| [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
