@@ -8,3 +8,4 @@
 | [013. Roman to Integer](../../../solutions/%23013_Roman-to-Integer) |
 | [017. Letter Combinations of a Phone Number](../../../solutions/%23017_Letter-Combinations-of-a-Phone-Number) |
 | [030. Substring with Concatenation of All Words](../../../solutions/%23030_Substring-with-Concatenation-of-All-Words) |
+| [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |

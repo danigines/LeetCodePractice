@@ -24,6 +24,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Linked List](./src/md/topics/Linked_List.md)
 - [Manacher](./src/md/topics/Manacher.md)
 - [Math](./src/md/topics/Math.md)
+- [Matrix](./src/md/topics/Matrix.md)
 - [Merge Sort](./src/md/topics/Merge_Sort.md)
 - [Recursion](./src/md/topics/Recursion.md)
 - [Sliding Window](./src/md/topics/Sliding_Window.md)
