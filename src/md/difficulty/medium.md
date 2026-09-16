@@ -25,3 +25,4 @@
 | [034. Find First and Last Position of Element in Sorted Array](../../../solutions/%23034_Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |
 | [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
+| [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |

@@ -5,3 +5,4 @@
 | [017. Letter Combinations of a Phone Number](../../../solutions/%23017_Letter-Combinations-of-a-Phone-Number) |
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
+| [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |

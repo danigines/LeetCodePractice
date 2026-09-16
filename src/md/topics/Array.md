@@ -17,3 +17,4 @@
 | [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
 | [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
+| [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |
