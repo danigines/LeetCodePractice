@@ -24,3 +24,4 @@
 | [033. Search in Rotated Sorted Array](../../../solutions/%23033_Search-in-Rotated-Sorted-Array) |
 | [034. Find First and Last Position of Element in Sorted Array](../../../solutions/%23034_Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |
+| [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
