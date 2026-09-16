@@ -9,6 +9,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [🔴 Hard](./src/md/difficulty/hard.md)
 
 ### 🧠 Filter by Topic
+- [Algorithm X](./src/md/topics/Algorithm_X.md)
 - [Array](./src/md/topics/Array.md)
 - [Backtracking](./src/md/topics/Backtracking.md)
 - [Binary Search](./src/md/topics/Binary_Search.md)

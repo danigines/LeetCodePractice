@@ -9,3 +9,4 @@
 | [017. Letter Combinations of a Phone Number](../../../solutions/%23017_Letter-Combinations-of-a-Phone-Number) |
 | [030. Substring with Concatenation of All Words](../../../solutions/%23030_Substring-with-Concatenation-of-All-Words) |
 | [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |
+| [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |

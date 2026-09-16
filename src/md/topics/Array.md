@@ -16,3 +16,4 @@
 | [034. Find First and Last Position of Element in Sorted Array](../../../solutions/%23034_Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
 | [036. Valid Sudoku](../../../solutions/%23036_Valid-Sudoku) |
+| [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
