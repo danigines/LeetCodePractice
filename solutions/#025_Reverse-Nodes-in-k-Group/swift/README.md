@@ -4,20 +4,20 @@ We process the linked list in groups of exactly `k` nodes and reverse each compl
 
 For:
 
-```text
+``` text
 1 → 2 → 3 → 4 → 5
 k = 3
 ```
 
 the first complete group is:
 
-```text
+``` text
 1 → 2 → 3
 ```
 
 After reversing it:
 
-```text
+``` text
 3 → 2 → 1 → 4 → 5
 ```
 
@@ -53,7 +53,7 @@ let nextGroup = groupEnd.next
 
 Then `previous` begins at `nextGroup`. This makes the old group start connect directly to the following group during the same reversal loop.
 
-```text
+``` text
 Before: previous → 1 → 2 → 3 → nextGroup
 After:  previous → 3 → 2 → 1 → nextGroup
 ```
@@ -64,7 +64,7 @@ The old group start becomes the final node of the reversed group and the predece
 
 The algorithm reuses the existing nodes and only maintains a fixed set of references:
 
-```text
+``` text
 groupPrevious
 groupEnd
 groupStart
@@ -86,7 +86,7 @@ Think of **In-Place Linked List Reversal** when:
 
 The safest process is:
 
-```text
+``` text
 Validate group → Save boundaries → Reverse → Reconnect
 ```
 
@@ -103,21 +103,21 @@ For each call:
 
 For:
 
-```text
+``` text
 1 → 2 → 3 → 4 → 5
 k = 2
 ```
 
 the calls process the list from the final complete group back toward the first:
 
-```text
+``` text
 swap 3 → 4
 then swap 1 → 2
 ```
 
 producing:
 
-```text
+``` text
 2 → 1 → 4 → 3 → 5
 ```
 

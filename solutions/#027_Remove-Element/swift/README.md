@@ -1,21 +1,21 @@
 ## Explanation [_Optimal solution_]
 We use a read/write strategy to build the valid part of `nums` in-place.
 
-```text
+``` text
 read position → examines every value
 writeIndex    → indicates where the next retained value belongs
 ```
 
 For:
 
-```text
+``` text
 nums = [3, 2, 2, 3]
 val = 3
 ```
 
 the process is:
 
-```text
+``` text
 Read 3 → skip
 Read 2 → write at index 0
 Read 2 → write at index 1
@@ -24,7 +24,7 @@ Read 3 → skip
 
 The valid prefix becomes:
 
-```text
+``` text
 [2, 2]
 ```
 
@@ -70,14 +70,14 @@ Because the problem allows the order to change, an unwanted value can be replace
 
 For:
 
-```text
+``` text
 nums = [3, 2, 2, 3]
 val = 3
 ```
 
 the first `3` is initially replaced by the last active value:
 
-```text
+``` text
 [3, 2, 2, 3]
  ↑        ↑
 
@@ -86,7 +86,7 @@ the first `3` is initially replaced by the last active value:
 
 That replacement is also `3`, so the same position is checked again and replaced with the new last active value, `2`:
 
-```text
+``` text
 [2, 2, 2, 3] → active length = 2
 ```
 

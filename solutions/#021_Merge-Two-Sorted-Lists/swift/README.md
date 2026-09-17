@@ -4,14 +4,14 @@ Both linked lists are already sorted, so at every step we only need to compare t
 
 For:
 
-```text
+``` text
 list1: 1 → 2 → 4
 list2: 1 → 3 → 4
 ```
 
 we repeatedly choose the smaller current value:
 
-```text
+``` text
 1 → 1 → 2 → 3 → 4 → 4
 ```
 
@@ -25,7 +25,7 @@ let dummy = ListNode(0)
 
 Conceptually:
 
-```text
+``` text
 dummy → 1 → 1 → 2 → 3 → 4 → 4
 ```
 
@@ -51,7 +51,7 @@ When one list becomes empty, the other list is already sorted.
 
 For example:
 
-```text
+``` text
 Result:
 1 → 1 → 2 → 3
 
@@ -82,14 +82,14 @@ The recursive solution makes the same comparison, but delegates the remaining wo
 
 For:
 
-```text
+``` text
 list1: 1 → 2 → 4
 list2: 3 → 4
 ```
 
 the smaller head is:
 
-```text
+``` text
 1
 ```
 
@@ -97,7 +97,7 @@ Therefore `1` must be the first node of the result.
 
 The remaining problem becomes:
 
-```text
+``` text
 merge(
     2 → 4,
     3 → 4

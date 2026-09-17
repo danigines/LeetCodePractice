@@ -15,7 +15,7 @@ Consider the number of elements in `nums` which are not equal to `val` to be `k`
 
 The judge will test your solution with the following code:
 
-```text
+``` text
 int[] nums = [...]; // Input array
 int val = ...; // Value to remove
 int[] expectedNums = [...]; // The expected answer with correct length.

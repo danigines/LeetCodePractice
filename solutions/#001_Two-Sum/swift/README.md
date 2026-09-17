@@ -2,13 +2,13 @@
 
 For every number, we calculate the complement needed to reach `target`:
 
-```text
+``` text
 complement = target - currentValue
 ```
 
 For `nums = [2, 7, 11, 15]` and `target = 9`:
 
-```text
+``` text
 currentValue = 2 → complement = 7
 currentValue = 7 → complement = 2
 ```

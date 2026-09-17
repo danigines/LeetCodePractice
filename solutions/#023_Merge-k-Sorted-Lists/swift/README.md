@@ -4,7 +4,7 @@ Every input list is already sorted. Therefore, the next node in the final result
 
 For:
 
-```text
+``` text
 list 1: 1 → 4 → 5
 list 2: 1 → 3 → 4
 list 3: 2 → 6
@@ -12,7 +12,7 @@ list 3: 2 → 6
 
 the initial candidates are:
 
-```text
+``` text
 1, 1, 2
 ```
 
@@ -30,7 +30,7 @@ After removing the smallest node, we:
 
 For example:
 
-```text
+``` text
 Remove 1 from list 1
 Result: 1
 Insert 4 from list 1
@@ -81,7 +81,7 @@ The Divide and Conquer solution repeatedly merges lists in balanced pairs.
 
 With four lists:
 
-```text
+``` text
 Round 1:
 list 1 + list 2
 list 3 + list 4
@@ -92,7 +92,7 @@ merged 1-2 + merged 3-4
 
 The interval between paired lists doubles after every round:
 
-```text
+``` text
 1 → 2 → 4 → 8 → ...
 ```
 

@@ -1,5 +1,7 @@
 # <img src="https://assets.leetcode.com/favorite/default_smart_knowledge_cover.png" width="48" height="48"> Boyer–Moore String-Search Algorithm
 
+Related topic: the current Swift solutions use KMP and direct comparison, not Boyer–Moore.
+
 | # Problem |
 |:----|
 | [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |

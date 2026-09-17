@@ -14,7 +14,7 @@ The first `k` elements of `nums` should contain the unique numbers in **sorted o
 
 The judge will test your solution with the following code:
 
-```text
+``` text
 int[] nums = [...]; // Input array
 int[] expectedNums = [...]; // The expected answer with correct length
 

@@ -2,13 +2,13 @@
 
 The simulation follows the same movement used to write the zigzag:
 
-```text
+``` text
 down → down → up → down → ...
 ```
 
 For `numRows = 3`, the current row evolves as:
 
-```text
+``` text
 0 → 1 → 2 → 1 → 0 → 1 → ...
 ```
 
@@ -36,7 +36,7 @@ Here, that state is the current row and the direction.
 
 The mathematical solution reads the output row by row using the repeating zigzag cycle:
 
-```text
+``` text
 cycleLength = 2 × numRows - 2
 ```
 

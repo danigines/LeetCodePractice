@@ -4,7 +4,7 @@
 [![string](../../src/images/badges/topics/string.svg)](../../src/md/topics/String.md)
 
 The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
-```text
+``` text
 P   A   H   N
 A P L S I I G
 Y   I   R

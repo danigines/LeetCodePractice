@@ -4,20 +4,20 @@ Because `nums` is sorted, equal values are next to each other.
 
 We use two indices:
 
-```text
+``` text
 readIndex  → examines every element
 writeIndex → indicates where the next unique value belongs
 ```
 
 For:
 
-```text
+``` text
 nums = [1, 1, 2]
 ```
 
 the process is:
 
-```text
+``` text
 Keep 1          → [1, 1, 2], writeIndex = 1
 Skip second 1   → [1, 1, 2], writeIndex = 1
 Write 2         → [1, 2, 2], writeIndex = 2

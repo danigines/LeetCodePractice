@@ -2,14 +2,14 @@
 
 We build each combination from left to right while keeping track of:
 
-```text
+``` text
 openCount  → opening parentheses already used
 closeCount → closing parentheses already used
 ```
 
 For:
 
-```text
+``` text
 n = 3
 ```
 
@@ -39,7 +39,7 @@ This rule guarantees that every closing parenthesis has an unmatched opening par
 
 For example, this prefix is invalid:
 
-```text
+``` text
 ())
 ```
 
@@ -51,7 +51,7 @@ By rejecting that decision immediately, the algorithm explores only prefixes tha
 
 Every valid decision follows the same cycle:
 
-```text
+``` text
 Choose → Explore → Undo
 ```
 
@@ -96,13 +96,13 @@ The Dynamic Programming solution builds the answer from solutions to smaller pai
 
 Every valid combination with `n` pairs can be decomposed uniquely as:
 
-```text
+``` text
 ( leftCombination ) rightCombination
 ```
 
 If the outer pair contains `i` pairs, the remaining part contains:
 
-```text
+``` text
 n - 1 - i
 ```
 
@@ -110,7 +110,7 @@ pairs.
 
 For `n = 3`, the possible distributions are:
 
-```text
+``` text
 i = 0 → ( dp[0] ) dp[2]
 i = 1 → ( dp[1] ) dp[1]
 i = 2 → ( dp[2] ) dp[0]
@@ -124,13 +124,13 @@ combinationsByPairCount[0] = [""]
 
 The empty string is the only valid combination with zero pairs and allows the recurrence to construct:
 
-```text
+``` text
 dp[1] = ["()"]
 ```
 
 then:
 
-```text
+``` text
 dp[2] = ["()()", "(())"]
 ```
 

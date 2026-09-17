@@ -4,19 +4,19 @@ We traverse the linked list and swap adjacent nodes by changing their `next` ref
 
 For:
 
-```text
+``` text
 1 → 2 → 3 → 4
 ```
 
 the first pair changes from:
 
-```text
+``` text
 previous → 1 → 2 → 3
 ```
 
 to:
 
-```text
+``` text
 previous → 2 → 1 → 3
 ```
 
@@ -36,7 +36,7 @@ This lets every pair use exactly the same reconnection logic, including the firs
 
 We keep three references:
 
-```text
+``` text
 previous → node before the pair
 first    → first node in the pair
 second   → second node in the pair
@@ -56,7 +56,7 @@ Afterward, `first` is the final node of the swapped pair, so it becomes `previou
 
 The loop requires both `first` and `second` to exist. If only one node remains, it has no partner and stays unchanged.
 
-```text
+``` text
 1 → 2 → 3
 
 becomes
@@ -81,25 +81,25 @@ The recursive solution treats the first two nodes as one pair and delegates the 
 
 For:
 
-```text
+``` text
 1 → 2 → 3 → 4
 ```
 
 we first solve:
 
-```text
+``` text
 swapPairs(3 → 4)
 ```
 
 which returns:
 
-```text
+``` text
 4 → 3
 ```
 
 Then the first pair is connected in front of that result:
 
-```text
+``` text
 2 → 1 → 4 → 3
 ```
 

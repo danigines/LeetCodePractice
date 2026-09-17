@@ -6,14 +6,14 @@ Manacher's Algorithm finds the longest palindromic substring in linear time by r
 
 Palindromes may have odd or even length:
 
-```text
+``` text
 "aba"  → odd
 "abba" → even
 ```
 
 We insert `#` separators so both types have a single-character center:
 
-```text
+``` text
 aba  → #a#b#a#
 abba → #a#b#b#a#
 ```
