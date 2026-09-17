@@ -6,3 +6,4 @@
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
 | [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |
+| [040. Combination Sum II](../../../solutions/%23040_Combination-Sum-II) |
