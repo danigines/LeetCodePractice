@@ -33,7 +33,7 @@ Return _the maximum amount of water a container can store_.
 
 <details>
 <summary>💡 Hint 1</summary>
-If you simulate the problem, it will be O(n^2) which is not efficient.
+If you simulate the problem, it will be O(n²) which is not efficient.
 </details>
 <details>
 <summary>💡 Hint 2</summary>

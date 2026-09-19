@@ -30,8 +30,8 @@ The intended algorithm must run in `O(n)` time and use `O(1)` auxiliary space.
 > **Explanation**: No positive integer from 1 through the array length is present.
 
 ## Constraints
-- `1 <= nums.length <= 10^5`
-- `-2^31 <= nums[i] <= 2^31 - 1`
+- `1 <= nums.length <= 10⁵`
+- `-2³¹ <= nums[i] <= 2³¹ - 1`
 
 <details>
 <summary>💡 Hint 1</summary>

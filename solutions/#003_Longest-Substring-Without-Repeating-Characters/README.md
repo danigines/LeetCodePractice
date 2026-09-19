@@ -32,7 +32,7 @@ A substring is a contiguous sequence of characters within the original string.
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 ## Constraints
-- `0 <= s.count <= 10^5`
+- `0 <= s.count <= 10⁵`
 - `s` consists of English letters, digits, symbols, and spaces.
 
 <details>
