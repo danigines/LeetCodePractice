@@ -4,3 +4,4 @@
 |:----|
 | [020. Valid Parentheses](../../../solutions/%23020_Valid-Parentheses) |
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
+| [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |

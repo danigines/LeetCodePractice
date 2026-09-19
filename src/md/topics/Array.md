@@ -20,3 +20,4 @@
 | [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |
 | [040. Combination Sum II](../../../solutions/%23040_Combination-Sum-II) |
 | [041. First Missing Positive](../../../solutions/%23041_First-Missing-Positive) |
+| [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |

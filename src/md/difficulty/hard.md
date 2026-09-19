@@ -12,3 +12,4 @@
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
 | [041. First Missing Positive](../../../solutions/%23041_First-Missing-Positive) |
+| [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |

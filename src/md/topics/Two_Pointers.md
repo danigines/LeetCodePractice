@@ -12,3 +12,4 @@
 | [027. Remove Element](../../../solutions/%23027_Remove-Element) |
 | [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |
 | [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
+| [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
