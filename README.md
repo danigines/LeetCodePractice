@@ -30,6 +30,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Monotonic Stack](./src/md/topics/Monotonic_Stack.md)
 - [Recursion](./src/md/topics/Recursion.md)
 - [Sliding Window](./src/md/topics/Sliding_Window.md)
+- [Simulation](./src/md/topics/Simulation.md)
 - [Sorting](./src/md/topics/Sorting.md)
 - [Stack](./src/md/topics/Stack.md)
 - [String](./src/md/topics/String.md)

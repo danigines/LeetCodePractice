@@ -27,3 +27,4 @@
 | [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
 | [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |
 | [040. Combination Sum II](../../../solutions/%23040_Combination-Sum-II) |
+| [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |

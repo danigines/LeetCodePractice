@@ -17,3 +17,4 @@
 | [030. Substring with Concatenation of All Words](../../../solutions/%23030_Substring-with-Concatenation-of-All-Words) |
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
 | [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
+| [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
