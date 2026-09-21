@@ -97,6 +97,8 @@ The optimal solution recognizes that the suffix is descending and reverses it in
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Pivot and Reverse | `O(n)` | `O(1)` | The pivot, successor, and suffix are each scanned at most once, using only indices. |

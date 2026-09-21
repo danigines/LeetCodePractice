@@ -110,6 +110,8 @@ The stack solution needs only one scan and makes the substring boundaries explic
 
 ## Complexity comparison
 
+Let `n` be the number of characters in `s`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Two Counter Scans | `O(n)` | `O(1)` | The string is scanned twice while storing only counters and the maximum length. |

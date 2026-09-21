@@ -103,6 +103,8 @@ The primary solution finds the target directly in one binary-search loop. The se
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | One-Pass Modified Search | `O(log n)` | `O(1)` | Every iteration discards half of the remaining range while storing only indices. |

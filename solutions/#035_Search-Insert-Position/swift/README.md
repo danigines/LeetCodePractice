@@ -92,6 +92,8 @@ The binary search discards half of the remaining positions on every iteration. T
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Lower-Bound Search | `O(log n)` | `O(1)` | Every iteration halves the search range while storing only two boundaries and a midpoint. |

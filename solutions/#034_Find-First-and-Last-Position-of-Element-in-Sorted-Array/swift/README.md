@@ -101,6 +101,8 @@ The optimal solution finds both boundaries independently with binary search, gua
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Two Bound Searches | `O(log n)` | `O(1)` | Two binary searches repeatedly halve their ranges while storing only indices. |

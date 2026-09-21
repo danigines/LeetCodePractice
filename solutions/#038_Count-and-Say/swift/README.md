@@ -65,7 +65,7 @@ Both versions create the same sequence and process the characters of each term. 
 
 ## Complexity comparison
 
-Let `Lᵢ` be the length of term `i`, `S = L₁ + ... + Lₙ`, and `Lmax` the longest term generated.
+Let `n` be the requested term number, `Lᵢ` the length of term `i`, `S = L₁ + ... + Lₙ`, and `Lmax` the longest term generated.
 
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
