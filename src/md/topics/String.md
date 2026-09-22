@@ -18,3 +18,4 @@
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
 | [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
+| [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |

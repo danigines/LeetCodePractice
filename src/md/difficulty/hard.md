@@ -13,3 +13,4 @@
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
 | [041. First Missing Positive](../../../solutions/%23041_First-Missing-Positive) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
+| [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |

@@ -7,3 +7,4 @@
 | [022. Generate Parentheses](../../../solutions/%23022_Generate-Parentheses) |
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
+| [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
