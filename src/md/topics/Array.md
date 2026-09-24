@@ -21,3 +21,4 @@
 | [040. Combination Sum II](../../../solutions/%23040_Combination-Sum-II) |
 | [041. First Missing Positive](../../../solutions/%23041_First-Missing-Positive) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
+| [045. Jump Game II](../../../solutions/%23045_Jump-Game-II) |
