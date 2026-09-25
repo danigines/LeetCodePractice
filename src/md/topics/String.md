@@ -19,3 +19,4 @@
 | [038. Count and Say](../../../solutions/%23038_Count-and-Say) |
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
 | [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
+| [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
