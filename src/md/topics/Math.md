@@ -9,3 +9,4 @@
 | [013. Roman to Integer](../../../solutions/%23013_Roman-to-Integer) |
 | [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
+| [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |

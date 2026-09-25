@@ -31,3 +31,4 @@
 | [045. Jump Game II](../../../solutions/%23045_Jump-Game-II) |
 | [046. Permutations](../../../solutions/%23046_Permutations) |
 | [047. Permutations II](../../../solutions/%23047_Permutations-II) |
+| [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |
