@@ -30,3 +30,4 @@
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
 | [045. Jump Game II](../../../solutions/%23045_Jump-Game-II) |
 | [046. Permutations](../../../solutions/%23046_Permutations) |
+| [047. Permutations II](../../../solutions/%23047_Permutations-II) |

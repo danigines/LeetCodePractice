@@ -8,3 +8,4 @@
 | [039. Combination Sum](../../../solutions/%23039_Combination-Sum) |
 | [040. Combination Sum II](../../../solutions/%23040_Combination-Sum-II) |
 | [046. Permutations](../../../solutions/%23046_Permutations) |
+| [047. Permutations II](../../../solutions/%23047_Permutations-II) |
