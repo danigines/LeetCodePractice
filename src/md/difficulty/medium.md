@@ -34,3 +34,4 @@
 | [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
 | [050. Pow(x, n)](../../../solutions/%23050_Pow%28x%2Cn%29) |
+| [053. Maximum Subarray](../../../solutions/%23053_Maximum-Subarray) |
