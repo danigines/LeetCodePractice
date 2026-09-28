@@ -3,3 +3,4 @@
 | # Problem |
 |:----|
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
+| [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |

@@ -28,3 +28,4 @@
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
 | [051. N-Queens](../../../solutions/%23051_N-Queens) |
 | [053. Maximum Subarray](../../../solutions/%23053_Maximum-Subarray) |
+| [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
