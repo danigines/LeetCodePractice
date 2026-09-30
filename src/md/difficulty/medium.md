@@ -36,3 +36,4 @@
 | [050. Pow(x, n)](../../../solutions/%23050_Pow%28x%2Cn%29) |
 | [053. Maximum Subarray](../../../solutions/%23053_Maximum-Subarray) |
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
+| [055. Jump Game](../../../solutions/%23055_Jump-Game) |

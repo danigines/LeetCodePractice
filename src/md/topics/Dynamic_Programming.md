@@ -10,3 +10,4 @@
 | [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
 | [045. Jump Game II](../../../solutions/%23045_Jump-Game-II) |
 | [053. Maximum Subarray](../../../solutions/%23053_Maximum-Subarray) |
+| [055. Jump Game](../../../solutions/%23055_Jump-Game) |
