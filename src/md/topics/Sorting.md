@@ -7,3 +7,4 @@
 | [018. 4Sum](../../../solutions/%23018_4Sum) |
 | [047. Permutations II](../../../solutions/%23047_Permutations-II) |
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
+| [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |

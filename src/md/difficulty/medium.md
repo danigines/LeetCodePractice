@@ -37,3 +37,4 @@
 | [053. Maximum Subarray](../../../solutions/%23053_Maximum-Subarray) |
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
 | [055. Jump Game](../../../solutions/%23055_Jump-Game) |
+| [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |

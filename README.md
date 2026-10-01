@@ -28,6 +28,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Matrix](./src/md/topics/Matrix.md)
 - [Merge Sort](./src/md/topics/Merge_Sort.md)
 - [Monotonic Stack](./src/md/topics/Monotonic_Stack.md)
+- [Quick Sort](./src/md/topics/Quick_Sort.md)
 - [Recursion](./src/md/topics/Recursion.md)
 - [Sliding Window](./src/md/topics/Sliding_Window.md)
 - [Simulation](./src/md/topics/Simulation.md)

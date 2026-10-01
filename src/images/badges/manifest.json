@@ -60,6 +60,7 @@
     "Brainteaser": "topics/brainteaser.svg",
     "Doubly-Linked List": "topics/doubly-linked-list.svg",
     "Merge Sort": "topics/merge-sort.svg",
+    "Quick Sort": "topics/quick-sort.svg",
     "Randomized": "topics/randomized.svg",
     "Counting Sort": "topics/counting-sort.svg",
     "Iterator": "topics/iterator.svg",
