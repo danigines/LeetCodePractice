@@ -14,3 +14,4 @@
 | [027. Remove Element](../../../solutions/%23027_Remove-Element) |
 | [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |
 | [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
+| [058. Length of Last Word](../../../solutions/%23058_Length-of-Last-Word) |
