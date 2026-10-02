@@ -6,3 +6,4 @@
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
 | [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
+| [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |

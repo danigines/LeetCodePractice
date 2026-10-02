@@ -32,3 +32,4 @@
 | [055. Jump Game](../../../solutions/%23055_Jump-Game) |
 | [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |
 | [057. Insert Interval](../../../solutions/%23057_Insert-Interval) |
+| [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
