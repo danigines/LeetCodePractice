@@ -40,3 +40,4 @@
 | [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |
 | [057. Insert Interval](../../../solutions/%23057_Insert-Interval) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
+| [061. Rotate List](../../../solutions/%23061_Rotate-List) |

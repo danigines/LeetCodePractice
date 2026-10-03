@@ -13,3 +13,4 @@
 | [028. Find the Index of the First Occurrence in a String](../../../solutions/%23028_Find-the-Index-of-the-First-Occurrence-in-a-String) |
 | [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
+| [061. Rotate List](../../../solutions/%23061_Rotate-List) |
