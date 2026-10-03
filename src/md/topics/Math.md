@@ -11,3 +11,4 @@
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
 | [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |
 | [050. Pow(x, n)](../../../solutions/%23050_Pow%28x%2Cn%29) |
+| [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |

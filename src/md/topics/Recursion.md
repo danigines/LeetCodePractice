@@ -9,3 +9,4 @@
 | [025. Reverse Nodes in k-Group](../../../solutions/%23025_Reverse-Nodes-in-k-Group) |
 | [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
 | [050. Pow(x, n)](../../../solutions/%23050_Pow%28x%2Cn%29) |
+| [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |

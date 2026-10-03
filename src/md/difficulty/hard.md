@@ -16,3 +16,4 @@
 | [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
 | [051. N-Queens](../../../solutions/%23051_N-Queens) |
 | [052. N-Queens II](../../../solutions/%23052_N-Queens-II) |
+| [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |
