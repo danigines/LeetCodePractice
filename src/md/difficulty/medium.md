@@ -41,3 +41,4 @@
 | [057. Insert Interval](../../../solutions/%23057_Insert-Interval) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
+| [062. Unique Paths](../../../solutions/%23062_Unique-Paths) |

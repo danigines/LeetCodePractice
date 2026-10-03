@@ -16,6 +16,7 @@ Personal repository with solutions to **LeetCode** problems, organized by **diff
 - [Bit Manipulation](./src/md/topics/Bit_Manipulation.md)
 - [Boyer–Moore String-Search Algorithm](./src/md/topics/Boyer_Moore_String_Search_Algorithm.md)
 - [Bracket Sequences](./src/md/topics/Bracket_Sequences.md)
+- [Combinatorics](./src/md/topics/Combinatorics.md)
 - [Divide and Conquer](./src/md/topics/Divide_and_Conquer.md)
 - [Dynamic Programming](./src/md/topics/Dynamic_Programming.md)
 - [Greedy](./src/md/topics/Greedy.md)
