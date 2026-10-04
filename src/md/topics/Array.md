@@ -33,3 +33,4 @@
 | [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |
 | [057. Insert Interval](../../../solutions/%23057_Insert-Interval) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
+| [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |

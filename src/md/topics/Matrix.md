@@ -7,3 +7,4 @@
 | [048. Rotate Image](../../../solutions/%23048_Rotate-Image) |
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
+| [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |
