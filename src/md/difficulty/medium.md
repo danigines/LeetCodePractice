@@ -43,3 +43,4 @@
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
 | [062. Unique Paths](../../../solutions/%23062_Unique-Paths) |
 | [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |
+| [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
