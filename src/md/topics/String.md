@@ -21,3 +21,4 @@
 | [044. Wildcard Matching](../../../solutions/%23044_Wildcard-Matching) |
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
 | [058. Length of Last Word](../../../solutions/%23058_Length-of-Last-Word) |
+| [065. Valid Number](../../../solutions/%23065_Valid-Number) |
