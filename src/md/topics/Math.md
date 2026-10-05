@@ -13,3 +13,4 @@
 | [050. Pow(x, n)](../../../solutions/%23050_Pow%28x%2Cn%29) |
 | [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |
 | [062. Unique Paths](../../../solutions/%23062_Unique-Paths) |
+| [066. Plus One](../../../solutions/%23066_Plus-One) |
