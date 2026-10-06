@@ -36,3 +36,4 @@
 | [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |
 | [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
 | [066. Plus One](../../../solutions/%23066_Plus-One) |
+| [068. Text Justification](../../../solutions/%23068_Text-Justification) |

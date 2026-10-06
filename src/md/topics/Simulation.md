@@ -6,3 +6,4 @@
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
+| [068. Text Justification](../../../solutions/%23068_Text-Justification) |

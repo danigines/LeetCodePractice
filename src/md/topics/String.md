@@ -23,3 +23,4 @@
 | [058. Length of Last Word](../../../solutions/%23058_Length-of-Last-Word) |
 | [065. Valid Number](../../../solutions/%23065_Valid-Number) |
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
+| [068. Text Justification](../../../solutions/%23068_Text-Justification) |
