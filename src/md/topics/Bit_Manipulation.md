@@ -3,3 +3,4 @@
 | # Problem |
 |:----|
 | [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
+| [067. Add Binary](../../../solutions/%23067_Add-Binary) |

@@ -5,3 +5,4 @@
 | [043. Multiply Strings](../../../solutions/%23043_Multiply-Strings) |
 | [054. Spiral Matrix](../../../solutions/%23054_Spiral-Matrix) |
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
+| [067. Add Binary](../../../solutions/%23067_Add-Binary) |

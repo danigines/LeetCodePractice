@@ -16,3 +16,4 @@
 | [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
 | [058. Length of Last Word](../../../solutions/%23058_Length-of-Last-Word) |
 | [066. Plus One](../../../solutions/%23066_Plus-One) |
+| [067. Add Binary](../../../solutions/%23067_Add-Binary) |

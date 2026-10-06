@@ -14,3 +14,4 @@
 | [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |
 | [062. Unique Paths](../../../solutions/%23062_Unique-Paths) |
 | [066. Plus One](../../../solutions/%23066_Plus-One) |
+| [067. Add Binary](../../../solutions/%23067_Add-Binary) |
