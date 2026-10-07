@@ -24,3 +24,4 @@
 | [065. Valid Number](../../../solutions/%23065_Valid-Number) |
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
+| [071. Simplify Path](../../../solutions/%23071_Simplify-Path) |
