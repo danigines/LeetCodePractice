@@ -16,10 +16,10 @@ Return the integer as the final result.
 
 ### Example 1
 > **Input**: s = "42"
-> 
+>
 > **Output**: 42
-> 
-> **Explanation**: 
+>
+> **Explanation**:
 > ``` text
 > The underlined characters are what is read in and the caret is the current reader position.
 > Step 1: "42" (no characters read because there is no leading whitespace)
@@ -32,10 +32,10 @@ Return the integer as the final result.
 
 ### Example 2
 > **Input**: s = " -042"
-> 
+>
 > **Output**: -42
-> 
-> **Explanation**: 
+>
+> **Explanation**:
 > ``` text
 > Step 1: "   -042" (leading whitespace is read and ignored)
 >             ^
@@ -47,10 +47,10 @@ Return the integer as the final result.
 
 ### Example 3
 > **Input**: s = "1337c0d3"
-> 
+>
 > **Output**: 1337
-> 
-> **Explanation**: 
+>
+> **Explanation**:
 > ``` text
 > Step 1: "1337c0d3" (no characters read because there is no leading whitespace)
 >          ^
@@ -58,14 +58,14 @@ Return the integer as the final result.
 >          ^
 > Step 3: "1337c0d3" ("1337" is read in; reading stops because the next character is a non-digit)
 >              ^
-> ``` 
+> ```
 
 ### Example 4
 > **Input**: s = "0-1"
-> 
+>
 > **Output**: 0
-> 
-> **Explanation**: 
+>
+> **Explanation**:
 > ``` text
 > Step 1: "0-1" (no characters read because there is no leading whitespace)
 >          ^
@@ -77,9 +77,9 @@ Return the integer as the final result.
 
 ### Example 5
 > **Input**: s = "words and 987"
-> 
+>
 > **Output**: 0
-> 
+>
 > **Explanation**: Reading stops at the first non-digit character 'w'.
 
 ## Constraints

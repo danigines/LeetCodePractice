@@ -54,6 +54,10 @@ Consider this pattern when:
 
 The essential aspect isn't simply having two pointers: it is being able to justify **why moving one of them does not rule out a potential optimal solution**.
 
+### How to Recognize This Pattern
+
+Consider **Two Pointers from Opposite Ends** when the current limiting value proves which boundary can be discarded without missing a better answer.
+
 ## Explanation [_Second solution_]
 This solution is based on a simple idea:
 
@@ -90,6 +94,9 @@ The Two Pointers approach leverages the limiting height to decide which end to d
 | When to use it | When a property allows one of the extremes to be discarded after each comparison. | As an initial solution or with very small inputs. |
 
 ## Complexity comparison
+
+Let `n` be the number of elements in `height`.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Two Pointers | `O(n)` | `O(1)` | `n` is the number of heights. Each pointer moves across the array at most once. |

@@ -85,6 +85,10 @@ Consider sequential parsing when the problem defines rules such as:
 
 It is not advisable to search for characters arbitrarily: **the order in which they appear matters.**
 
+### How to Recognize This Pattern
+
+Consider a **Single-Pass Parser** when input is consumed through ordered phases such as whitespace, sign, digits, and range validation.
+
 ## Explanation [_Second solution_]
 This solution represents the rules from the problem statement very explicitly.
 
@@ -134,6 +138,9 @@ This makes the phases very clear, but it requires additional memory.
 | When to use it | When we want a compact and efficient parser. | When explicitly separating the stages improves readability. |
 
 ## Complexity comparison
+
+Let `n` be the number of characters in `s`.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Single-pass | `O(n)` | `O(1)` | `n` is the number of characters in `s`. Each character is processed at most once without copying the string. |

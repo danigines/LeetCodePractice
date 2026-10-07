@@ -81,5 +81,5 @@ Let `n` be the number of candidates and `R` the number of returned combinations.
 
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
-| Skip Duplicates | `O(n log n + n × 2^n)` worst case | `O(n)` | Sorting is followed by subset exploration; copying each valid path takes up to `O(n)`. Sorting, the path, and recursion use linear auxiliary space. |
-| Frequency Groups | `O(n log n + n × 2^n)` worst case | `O(n)` | Each distinct value can be chosen from zero to its available count, yielding at most `2^n` quantity combinations; path copies take up to `O(n)`. Groups, path, and recursion use linear space. |
+| Skip Duplicates | `O(n log n + n × 2ⁿ)` worst case | `O(n)` | Sorting is followed by subset exploration; copying each valid path takes up to `O(n)`. Sorting, the path, and recursion use linear auxiliary space. |
+| Frequency Groups | `O(n log n + n × 2ⁿ)` worst case | `O(n)` | Each distinct value can be chosen from zero to its available count, yielding at most `2ⁿ` quantity combinations; path copies take up to `O(n)`. Groups, path, and recursion use linear space. |

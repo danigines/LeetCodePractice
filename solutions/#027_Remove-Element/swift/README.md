@@ -113,6 +113,8 @@ The read/write solution preserves order and examines every element. The swap-wit
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Read/Write Pointers | `O(n)` | `O(1)` | `n` is the number of elements in `nums`. Every value is read once, and only one write index is maintained. |

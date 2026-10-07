@@ -83,6 +83,10 @@ ask yourself:
 
 Here the answer is yes, exactly like in `3Sum`.
 
+### How to Recognize This Pattern
+
+Consider **Sorting with Directional Two Pointers** when each comparison indicates which pointer can move the sum closer to a target.
+
 ## Explanation [_Second solution_]
 Here we fix:
 ```
@@ -139,6 +143,9 @@ That is why it introduces an additional `log n` factor.
 | When to use it | When an ordered sum makes it possible to decide which pointer to move. | When you want to search explicitly for the required third value. |
 
 ## Complexity comparison
+
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Two Pointers | `O(n²)` | `O(n)` | `n` is the number of elements in `nums`. Each anchor uses a linear scan, while `sorted()` creates an `n`-element copy. |

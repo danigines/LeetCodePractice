@@ -94,6 +94,8 @@ The Two Pointers solution takes advantage of the sorted input and modifies the v
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Two Pointers | `O(n)` | `O(1)` | `n` is the number of elements in `nums`. Each value is read once, and only two indices are maintained. |

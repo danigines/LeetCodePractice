@@ -79,4 +79,4 @@ Let `k` be the number of candidates, `m` the smallest candidate, and `d = ⌊tar
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Sorted Backtracking | `O(k log k + k^d × d)` worst case | `O(k + d)` | Sorting costs `O(k log k)`; the search can branch across candidates to depth `d`, and copying a result costs up to `O(d)`. The sorted copy, path, and recursion stack use `O(k + d)` space. |
-| Include/Skip Backtracking | `O(2^(k + d) × d)` worst case | `O(k + d)` | Each state can include or skip a candidate, and a path can contain up to `d` inclusions and `k` skips. Copying a result costs up to `O(d)`; the path and stack use `O(k + d)` space. |
+| Include/Skip Backtracking | `O(2ᵏ⁺ᵈ × d)` worst case | `O(k + d)` | Each state can include or skip a candidate, and a path can contain up to `d` inclusions and `k` skips. Copying a result costs up to `O(d)`; the path and stack use `O(k + d)` space. |

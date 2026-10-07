@@ -19,7 +19,7 @@ The `'.'` character indicates empty cells.
 
 ### Example 1
 > ![src](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
-> 
+>
 > **Input**: board =
 >
 > ``` text
@@ -49,7 +49,7 @@ The `'.'` character indicates empty cells.
 > ```
 >
 > **Explanation**: The input board has exactly one valid solution, shown above.
-> 
+>
 > ![src](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)
 
 ## Constraints

@@ -66,6 +66,10 @@ Here, we use that index solely to calculate distances and store positions.
 
 This avoids accessing the `String` using integer indices—something Swift does not directly allow, as `Strings` operate using `String.Index`.
 
+### How to Recognize This Pattern
+
+Consider a **Sliding Window** when searching for the longest contiguous range that must preserve a condition as its right boundary advances.
+
 ## Explanation [_Second solution_]
 The window must once again contain only unique characters. The difference is that now a `Set` tells us:
 
@@ -115,6 +119,9 @@ Both solutions are linear, but the `Dictionary` based approach tends to be more 
 | When to use it | When knowing the last position allows the window to be moved directly. | When we only need to know which elements exist in the window. |
 
 ## Complexity comparison
+
+Let `n` be the number of characters in `s` and `k` the size of the character set.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | `Dictionary` | Average `O(n)` | `O(min(n, k))` | `n` is the length of `s` and `k` is the character-set size. Each character is processed once, and the dictionary stores at most `min(n, k)` entries. |

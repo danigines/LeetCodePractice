@@ -123,6 +123,8 @@ The Divide and Conquer solution merges entire pairs of lists. Both achieve `O(N 
 
 ## Complexity comparison
 
+Let `N` be the total number of nodes across all lists and `k` the number of input lists.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Min Heap | `O(N log k)` | `O(k)` | `N` is the total number of nodes across all lists and `k` is the number of input lists. Every node is inserted into and removed from a heap containing at most `k` nodes. |

@@ -68,6 +68,10 @@ Think of **Fast & Slow Pointers with a fixed distance** when:
 - you want to do it in a single pass
 - you need to maintain a constant distance between two positions
 
+### How to Recognize This Pattern
+
+Consider **Fast and Slow Pointers with a Fixed Gap** when a position is defined relative to the end of a singly linked list.
+
 ## Explanation [_Second solution_]
 First, we calculate how many nodes there are.
 
@@ -104,6 +108,9 @@ The solution using Fast & Slow Pointers achieves that position in a single trave
 | When to use it | When you need to locate a position from the end in a single pass. | When simplicity is more important than reducing travel distances. |
 
 ## Complexity comparison
+
+Let `n` be the number of nodes in the linked list.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Fast & Slow Pointers | `O(n)` | `O(1)` | `n` is the number of nodes. A fixed separation locates the target in one traversal using only node references. |

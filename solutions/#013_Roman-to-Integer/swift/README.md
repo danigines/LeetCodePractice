@@ -84,6 +84,10 @@ When a value depends on the relationship with its neighbor, ask:
 
 In this case, traversing from the right makes it possible to decide whether to add or subtract using only a previous value.
 
+### How to Recognize This Pattern
+
+Consider **Right-to-Left Accumulation** when a symbol is subtractive only if a larger-valued symbol has already appeared to its right.
+
 ## Explanation [_Second solution_]
 This solution directly examines pairs of symbols.
 
@@ -138,6 +142,9 @@ The logic remains linear, but it uses additional memory.
 | When to use it | When comparing with the previously processed value simplifies the logic. | When you prefer to explicitly identify the subtractive pairs. |
 
 ## Complexity comparison
+
+Let `n` be the number of Roman symbols in `s`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Right-to-Left | `O(n)` | `O(1)` | `n` is the number of Roman symbols. Each symbol is processed once, and the map always has seven entries. |

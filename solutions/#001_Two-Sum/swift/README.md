@@ -66,6 +66,8 @@ The `Dictionary` finds the answer in one average linear pass. Sorting enables Tw
 
 ## Complexity comparison
 
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Dictionary | Average `O(n)` | `O(n)` | `n` is the number of elements in `nums`. Each element is processed once, and up to `n` values and indices are stored. |

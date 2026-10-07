@@ -42,6 +42,10 @@ Consider a Greedy approach when:
 The key question here is:
 > What is the largest Roman numeral I can use right now?
 
+### How to Recognize This Pattern
+
+Consider **Greedy Symbol Decomposition** when symbols have fixed descending values and subtractive combinations can be included directly in the lookup table.
+
 ## Explanation [_Second solution_]
 This solution takes advantage of the fact that each decimal position has a small, known set of possibilities.
 
@@ -96,6 +100,9 @@ It is highly efficient, but relies heavily on the range and Roman numeral rules 
 | When to use it | When you want to model the problem using greedy values and decisions. | When the domain is small, fixed, and can be easily precalculated. |
 
 ## Complexity comparison
+
+The input range and Roman numeral symbol tables have fixed sizes, so no variable grows with the input.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Greedy | `O(1)` | `O(1)` | The input range and the symbol table have a fixed size. |

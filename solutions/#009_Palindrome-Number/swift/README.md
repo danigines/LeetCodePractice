@@ -64,6 +64,10 @@ When a numerical problem asks about symmetry between the ends, consider:
 
 This exercise directly reuses the digit manipulation concepts we saw in **`Reverse Integer`**.
 
+### How to Recognize This Pattern
+
+Consider **Reversing Half of a Value** when symmetry can be verified without rebuilding the entire representation.
+
 ## Explanation [_Second solution_]
 Here, we treat the number as a sequence of characters.
 
@@ -102,6 +106,9 @@ It is easier to read, but it does not meet the follow-up requirement of solving 
 | When to use it | When a purely arithmetic and efficient solution is desired. | When conversion to `String` is permitted and simplicity is prioritized. |
 
 ## Complexity comparison
+
+Let `n` be the absolute value of the input integer; `log₁₀ n` is its number of decimal digits.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Reverse Half | `O(log₁₀ n)` | `O(1)` | `n` is the absolute input value, so `log₁₀ n` is its digit count. Only half of those digits are reversed. |

@@ -148,6 +148,8 @@ The iterative solution uses constant auxiliary space. The recursive solution kee
 
 ## Complexity comparison
 
+Let `n` be the number of nodes in the linked list and `k` the group size.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Iterative In-Place | `O(n)` | `O(1)` | `n` is the number of nodes and `k` is the group size. Each node is checked and reversed a constant number of times, while only fixed references are stored. |

@@ -9,19 +9,19 @@ Given the `head` of a linked list, remove the `nᵗʰ` node from the end of the 
 ![src](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
 ### Example 1
 > **Input**: head = [1,2,3,4,5], n = 2
-> 
+>
 > **Output**: [1,2,3,5]
 
 ### Example 2
 > **Input**: head = [1], n = 1
-> 
+>
 > **Output**: []
 
 ### Example 3
 > **Input**: head = [1,2], n = 1
-> 
+>
 > **Output**: [1]
-> 
+>
 
 ## Constraints
 - The number of nodes in the list is `sz`.

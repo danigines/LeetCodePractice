@@ -7,23 +7,23 @@ Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` othe
 
 ### Example 1
 > **Input**: x = 121
-> 
+>
 > **Output**: true
-> 
+>
 > **Explanation**: `121` reads the same from left to right and from right to left.
 
 ### Example 2
 > **Input**: x = -121
-> 
+>
 > **Output**: false
-> 
+>
 > **Explanation**: From left to right, it reads `-121`. From right to left, it becomes `121-`, so it is not a palindrome.
 
 ### Example 3
 > **Input**: x = 10
-> 
+>
 > **Output**: false
-> 
+>
 > **Explanation**: Reading `10` from right to left gives `01`, so it is not a palindrome.
 
 ## Constraints

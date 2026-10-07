@@ -102,6 +102,8 @@ KMP preprocesses `needle` and uses its prefix table to avoid moving backward thr
 
 ## Complexity comparison
 
+Let `n` be the length of `haystack` and `m` the length of `needle`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | KMP | `O(n + m)` | `O(n + m)` | `n` is the length of `haystack` and `m` is the length of `needle`. Each character is processed a constant number of times; the Swift character arrays and prefix table use linear space. |

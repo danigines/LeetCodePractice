@@ -19,9 +19,9 @@ Return an array of the starting indices of all the concatenated substrings in `s
 > **Output**: [0,9]
 >
 > **Explanation**:
-> 
+>
 > The substring starting at 0 is `"barfoo"`. It is the concatenation of `["bar","foo"]`, which is a permutation of `words`.
-> 
+>
 > The substring starting at 9 is `"foobar"`. It is the concatenation of `["foo","bar"]`, which is a permutation of `words`.
 
 ### Example 2
@@ -37,11 +37,11 @@ Return an array of the starting indices of all the concatenated substrings in `s
 > **Output**: [6,9,12]
 >
 > **Explanation**:
-> 
+>
 > The substring starting at 6 is `"foobarthe"`. It is the concatenation of `["foo","bar","the"]`.
-> 
+>
 > The substring starting at 9 is `"barthefoo"`. It is the concatenation of `["bar","the","foo"]`.
-> 
+>
 > The substring starting at 12 is `"thefoobar"`. It is the concatenation of `["the","foo","bar"]`.
 
 ## Constraints

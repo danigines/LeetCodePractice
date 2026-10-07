@@ -57,6 +57,8 @@ Simulation follows every character's movement and stores separate rows. Cycle Ma
 
 ## Complexity comparison
 
+Let `n` be the number of characters in `s`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Simulation | `O(n)` | `O(n)` | `n` is the number of characters in `s`. Each character is appended once, and the row strings store `n` characters in total. |

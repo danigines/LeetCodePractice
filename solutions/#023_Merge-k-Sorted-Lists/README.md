@@ -16,7 +16,7 @@ Merge all the linked-lists into one sorted linked-list and return it.
 > **Output**: [1,1,2,3,4,4,5,6]
 >
 > **Explanation**: The linked-lists are:
-> ```text
+> ``` text
 > [
 >   1->4->5,
 >   1->3->4,
@@ -24,7 +24,7 @@ Merge all the linked-lists into one sorted linked-list and return it.
 > ]
 > ```
 > merging them into one sorted linked list:
-> ```text
+> ``` text
 > 1->1->2->3->4->4->5->6
 > ```
 

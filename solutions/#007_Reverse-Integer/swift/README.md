@@ -65,6 +65,10 @@ This approach appears in problems where you need to:
 - reconstruct another number
 - handle overflow during that reconstruction
 
+### How to Recognize This Pattern
+
+Consider **Digit Extraction with Overflow Guards** when an integer must be transformed one decimal digit at a time without using string conversion.
+
 ## Explanation [_Second solution_]
 This solution completely changes the strategy: instead of manipulating the digits mathematically, it treats them as characters.
 
@@ -116,6 +120,9 @@ The string-based version is more visually intuitive but requires additional memo
 | When to use it | When the problem requires efficient numerical manipulation or restricts larger types. | When text conversions are permitted and simplicity is prioritized. |
 
 ## Complexity comparison
+
+Let `n` be the absolute value of the input integer; `log₁₀ n` is its number of decimal digits.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | Arithmetic | `O(log₁₀ n)` | `O(1)` | `n` is the absolute input value, so `log₁₀ n` is its number of decimal digits. Each digit is processed once without additional structures. |

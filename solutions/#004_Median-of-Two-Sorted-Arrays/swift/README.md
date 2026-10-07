@@ -98,6 +98,10 @@ Consider Binary Search on a partition when:
 - you cannot afford to iterate through all the elements
 - you can determine whether a partition is too far to the left or right
 
+### How to Recognize This Pattern
+
+Consider **Binary Search on a Partition** when two sorted collections must be divided so every value on the left is no greater than every value on the right.
+
 ## Explanation [_Second solution_]
 Since both arrays are already sorted, we can move forward using two pointers:
 ```
@@ -142,6 +146,9 @@ and we calculate:
 | When to use it | When you need to fully leverage the ordering of the arrays and there is a logarithmic requirement. | When simplicity is a priority and `O(m + n)` is acceptable. |
 
 ## Complexity comparison
+
+Let `m` be the number of elements in `nums1` and `n` the number of elements in `nums2`.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | `Binary Search` | `O(log(min(m, n)))` | `O(1)` | `m` and `n` are the lengths of the two arrays. Each iteration halves the possible partitions of the shorter array. |

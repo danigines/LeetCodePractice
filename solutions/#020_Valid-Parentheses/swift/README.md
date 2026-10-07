@@ -148,6 +148,9 @@ Both are `O(n)`, but the first has fewer pieces and avoids the Hash Map.
 | When to use it | When the set of brackets is small and you want to simplify the matching. | When you prefer to explicitly represent the pairs using a map. |
 
 ## Complexity comparison
+
+Let `n` be the number of characters in `s`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Expected Closings Stack | `O(n)` | `O(n)` | `n` is the number of characters in `s`. Each character enters or leaves a stack containing at most `n` elements. |

@@ -118,6 +118,10 @@ think about:
 
 > Fixing one element and turning the rest into a Two Sum problem.
 
+### How to Recognize This Pattern
+
+Consider **Sorting with Anchored Two Pointers** when fixing one value turns a multi-value sum into a two-sum search with duplicate control.
+
 ## Explanation [_Second solution_]
 Here, we continue by fixing the first number:
 ```
@@ -180,6 +184,9 @@ Both achieve `O(n²)` complexity, but Two Pointers avoids creating a new `Set` f
 | When to use it | When the arrangement can be ordered and you need to find unique combinations. | When you want to explicitly reduce each iteration to a Two Sum problem using hashing. |
 
 ## Complexity comparison
+
+Let `n` be the number of elements in `nums`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Sorting + Two Pointers | `O(n²)` | `O(n)` | `n` is the number of elements in `nums`. Each anchor uses a linear two-pointer scan, while `sorted()` creates an `n`-element copy. |

@@ -63,6 +63,10 @@ Look for this approach when:
 
 The main pattern here is not specific to linked lists: it is a **digit-by-digit simulation**.
 
+### How to Recognize This Pattern
+
+Consider **Digit-by-Digit Carry Simulation** when a number is stored across nodes or array positions and arithmetic must proceed from the least significant digit.
+
 ## Explanation [_Second solution_]
 Instead of using a `while` loop, each recursive call:
 1. processes the current nodes;
@@ -103,6 +107,9 @@ a recursive solution may be viable.
 | When to use it | Preferred option for potentially large lists and production code. | Useful when depth is limited or for practicing recursion. |
 
 ## Complexity comparison
+
+Let `m` be the number of nodes in `l1` and `n` the number of nodes in `l2`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Iterative | `O(max(m, n))` | `O(1)` | `m` and `n` are the numbers of nodes in the two input lists. Each node is processed once, and only references and temporary variables are maintained. |

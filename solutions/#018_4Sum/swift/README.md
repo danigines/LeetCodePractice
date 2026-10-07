@@ -113,6 +113,10 @@ think about progressively reducing the number of elements:
 
 Once we get to Two Sum on sorted data, Two Pointers efficiently solves the rest.
 
+### How to Recognize This Pattern
+
+Consider **Reducing k-Sum after Sorting** when fixing outer values transforms the remaining search into a smaller sum problem with manageable duplicates.
+
 ## Explanation [_Second solution_]
 Here we fix:
 ```
@@ -170,6 +174,9 @@ That's why it's less efficient.
 | When to use it | When you can sort and reduce the problem to Two Sum. | When you want to practice searching for complements using Binary Search. |
 
 ## Complexity comparison
+
+Let `n` be the number of elements in `nums` and `q` the number of unique quadruplets.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Two Pointers | `O(n³)` | `O(n)` | `n` is the number of elements in `nums`. Two values are fixed and the other two use a linear scan; `sorted()` creates an `n`-element copy. |

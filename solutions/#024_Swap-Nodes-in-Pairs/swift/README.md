@@ -131,6 +131,8 @@ The iterative solution explicitly advances from pair to pair and uses constant a
 
 ## Complexity comparison
 
+Let `n` be the number of nodes in the linked list.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Iterative Rewiring | `O(n)` | `O(1)` | `n` is the number of nodes. Each node is visited once, and only a fixed number of references are maintained. |

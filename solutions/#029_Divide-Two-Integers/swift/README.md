@@ -98,6 +98,8 @@ Both solutions use constant auxiliary space and correctly handle signs and 32-bi
 
 ## Complexity comparison
 
+Let `D` be the absolute value of `dividend`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Bit-by-Bit Division | `O(log |dividend|)` | `O(1)` | Each possible binary position is inspected once, using only fixed numeric variables. |

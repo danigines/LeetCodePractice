@@ -49,6 +49,10 @@ Consider **Manacher's Algorithm** when:
 
 It is a specialized algorithm; Expand Around Center is usually easier unless linear performance is required.
 
+### How to Recognize This Pattern
+
+Consider **Palindrome Radius Reuse** when many overlapping centers would otherwise repeat the same outward character comparisons.
+
 ## Explanation [_Second solution_]
 
 Every palindrome has a center. For each string position, we expand around:
@@ -72,6 +76,8 @@ Expand Around Center is much simpler, but it may compare the same characters fro
 | Interview recommendation | Explain it only when linear time is expected or the algorithm is already familiar. | Usually preferred in interviews because it balances clarity and acceptable performance. |
 
 ## Complexity comparison
+
+Let `n` be the number of characters in `s`.
 
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|

@@ -98,6 +98,10 @@ OR
 use one or more occurrences
 ```
 
+### How to Recognize This Pattern
+
+Consider **Dynamic Programming on Prefixes** when matching decisions depend on previously solved prefixes of both the text and the pattern.
+
 ## Explanation [_Second solution_]
 Here we define:
 ```
@@ -155,6 +159,9 @@ The recursive solution is usually easier for initially understanding the relatio
 | When to use it | When you want to optimize memory and avoid recursion depth issues. | When you want to derive the recurrence clearly first. |
 
 ## Complexity comparison
+
+Let `m` be the number of characters in `s` and `n` the number of characters in `p`.
+
 | Solution | Time | Space | Reason |
 |:--------|:--------:|:--------:|:--------:|
 | 1D DP | `O(m × n)` | `O(n)` | `m` is the length of `s` and `n` is the length of `p`. Each string-pattern state is evaluated while only one row of `n` states is retained. |

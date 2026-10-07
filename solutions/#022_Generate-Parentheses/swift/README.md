@@ -90,6 +90,10 @@ The key question is:
 
 If so, backtracking can prune entire invalid branches instead of generating and validating every possible sequence.
 
+### How to Recognize This Pattern
+
+Consider **Constrained Backtracking** when partial candidates can be rejected early by maintaining counts that encode validity.
+
 ## Explanation [_Second solution_]
 
 The Dynamic Programming solution builds the answer from solutions to smaller pair counts.
@@ -158,6 +162,8 @@ Dynamic Programming stores all valid combinations for every smaller pair count a
 | Interview recommendation | Preferred. It is direct, efficient, and demonstrates pruning through constraints. | Strong alternative for explaining the recursive structure behind Catalan-number problems. |
 
 ## Complexity comparison
+
+Let `n` be the number of parenthesis pairs and `Cₙ` the nth Catalan number, equal to the number of valid results.
 
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|

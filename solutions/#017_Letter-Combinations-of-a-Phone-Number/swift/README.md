@@ -66,6 +66,10 @@ A particularly strong indicator is:
 
 > At each step, I have several decisions and I need to explore them all.
 
+### How to Recognize This Pattern
+
+Consider **Backtracking over Independent Choices** when every input position contributes one option from its own small set.
+
 ## Explanation [_Second solution_]
 This solution builds the result level by level.
 
@@ -111,6 +115,9 @@ That's why it typically uses more temporary memory.
 | When to use it | When we need to explore all possible decisions recursively. | When we want to build combinations iteratively. |
 
 ## Complexity comparison
+
+Let `n` be the number of input digits; each digit maps to at most four letters.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Backtracking | `O(n × 4ⁿ)` | `O(n)` auxiliary | `n` is the number of input digits; each has at most four letters. Up to `4ⁿ` combinations of length `n` are generated, while the active path uses linear auxiliary space. |

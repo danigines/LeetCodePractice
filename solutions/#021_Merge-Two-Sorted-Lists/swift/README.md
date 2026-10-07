@@ -140,6 +140,8 @@ Both require `O(m + n)` time, but recursion also requires `O(m + n)` stack space
 
 ## Complexity comparison
 
+Let `m` be the number of nodes in `list1` and `n` the number of nodes in `list2`.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:-------|
 | Iterative Merge | `O(m + n)` | `O(1)` | `m` is the number of nodes in `list1` and `n` is the number of nodes in `list2`. Each node is processed once and only node references are stored. |

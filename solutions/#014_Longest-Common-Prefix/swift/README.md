@@ -79,6 +79,10 @@ Here, the state we maintain is simply:
 current common prefix
 ```
 
+### How to Recognize This Pattern
+
+Consider **Progressive Prefix Reduction** when a shared candidate can only stay the same length or shrink as more strings are examined.
+
 ## Explanation [_Second solution_]
 Instead of reducing a whole candidate, this solution compares the strings **column by column**.
 
@@ -142,6 +146,9 @@ and it avoids directly handling `String.Index`.
 | When to use it | When you can maintain and progressively narrow down a candidate. | When you want to explicitly compare the same position across multiple sequences. |
 
 ## Complexity comparison
+
+Let `n` be the number of strings and `m` the length of the prefix candidate being examined.
+
 | Solution | Time | Space | Reason |
 |:---------|:----:|:-----:|:------:|
 | Horizontal Scanning | `O(n × m)` | `O(1)` | `n` is the number of strings and `m` is the shortest relevant string length. The candidate prefix is compared with each string. |
