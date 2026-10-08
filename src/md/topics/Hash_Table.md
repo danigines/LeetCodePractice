@@ -12,3 +12,4 @@
 | [037. Sudoku Solver](../../../solutions/%23037_Sudoku-Solver) |
 | [041. First Missing Positive](../../../solutions/%23041_First-Missing-Positive) |
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
+| [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |

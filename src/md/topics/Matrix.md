@@ -9,3 +9,4 @@
 | [059. Spiral Matrix II](../../../solutions/%23059_Spiral-Matrix-II) |
 | [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |
 | [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
+| [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |
