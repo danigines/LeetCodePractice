@@ -25,3 +25,4 @@
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
 | [071. Simplify Path](../../../solutions/%23071_Simplify-Path) |
+| [072. Edit Distance](../../../solutions/%23072_Edit-Distance) |
