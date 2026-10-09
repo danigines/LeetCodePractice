@@ -39,3 +39,4 @@
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
 | [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |
 | [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
+| [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |

@@ -48,3 +48,4 @@
 | [072. Edit Distance](../../../solutions/%23072_Edit-Distance) |
 | [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |
 | [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
+| [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |

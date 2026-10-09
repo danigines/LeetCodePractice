@@ -8,3 +8,4 @@
 | [047. Permutations II](../../../solutions/%23047_Permutations-II) |
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
 | [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |
+| [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |

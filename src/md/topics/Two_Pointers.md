@@ -14,3 +14,4 @@
 | [031. Next Permutation](../../../solutions/%23031_Next-Permutation) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
+| [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
