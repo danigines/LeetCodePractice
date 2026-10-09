@@ -19,3 +19,4 @@
 | [060. Permutation Sequence](../../../solutions/%23060_Permutation-Sequence) |
 | [065. Valid Number](../../../solutions/%23065_Valid-Number) |
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
+| [076. Minimum Window Substring](../../../solutions/%23076_Minimum-Window-Substring) |
