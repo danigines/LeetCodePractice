@@ -10,3 +10,4 @@
 | [063. Unique Paths II](../../../solutions/%23063_Unique-Paths-II) |
 | [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
 | [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |
+| [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
