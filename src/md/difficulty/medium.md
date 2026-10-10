@@ -51,3 +51,4 @@
 | [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
 | [077. Combinations](../../../solutions/%23077_Combinations) |
 | [078. Subsets](../../../solutions/%23078_Subsets) |
+| [079. Word Search](../../../solutions/%23079_Word-Search) |

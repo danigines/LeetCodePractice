@@ -13,3 +13,4 @@
 | [052. N-Queens II](../../../solutions/%23052_N-Queens-II) |
 | [077. Combinations](../../../solutions/%23077_Combinations) |
 | [078. Subsets](../../../solutions/%23078_Subsets) |
+| [079. Word Search](../../../solutions/%23079_Word-Search) |

@@ -41,3 +41,4 @@
 | [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
 | [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
 | [078. Subsets](../../../solutions/%23078_Subsets) |
+| [079. Word Search](../../../solutions/%23079_Word-Search) |

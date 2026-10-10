@@ -11,3 +11,4 @@
 | [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
 | [073. Set Matrix Zeroes](../../../solutions/%23073_Set-Matrix-Zeroes) |
 | [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
+| [079. Word Search](../../../solutions/%23079_Word-Search) |
