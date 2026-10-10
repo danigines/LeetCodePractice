@@ -12,3 +12,4 @@
 | [051. N-Queens](../../../solutions/%23051_N-Queens) |
 | [052. N-Queens II](../../../solutions/%23052_N-Queens-II) |
 | [077. Combinations](../../../solutions/%23077_Combinations) |
+| [078. Subsets](../../../solutions/%23078_Subsets) |
