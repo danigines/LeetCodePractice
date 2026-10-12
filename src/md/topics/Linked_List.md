@@ -9,3 +9,4 @@
 | [024. Swap Nodes in Pairs](../../../solutions/%23024_Swap-Nodes-in-Pairs) |
 | [025. Reverse Nodes in k-Group](../../../solutions/%23025_Reverse-Nodes-in-k-Group) |
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
+| [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |

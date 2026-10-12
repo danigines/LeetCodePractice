@@ -54,3 +54,4 @@
 | [079. Word Search](../../../solutions/%23079_Word-Search) |
 | [080. Remove Duplicates from Sorted Array II](../../../solutions/%23080_Remove-Duplicates-from-Sorted-Array-II) |
 | [081. Search in Rotated Sorted Array II](../../../solutions/%23081_Search-in-Rotated-Sorted-Array-II) |
+| [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |

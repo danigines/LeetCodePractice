@@ -16,3 +16,4 @@
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
 | [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
 | [080. Remove Duplicates from Sorted Array II](../../../solutions/%23080_Remove-Duplicates-from-Sorted-Array-II) |
+| [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |
