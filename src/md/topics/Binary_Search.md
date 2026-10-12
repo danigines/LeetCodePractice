@@ -8,3 +8,4 @@
 | [035. Search Insert Position](../../../solutions/%23035_Search-Insert-Position) |
 | [069. Sqrt(x)](../../../solutions/%23069_Sqrt%28x%29) |
 | [074. Search a 2D Matrix](../../../solutions/%23074_Search-a-2D-Matrix) |
+| [081. Search in Rotated Sorted Array II](../../../solutions/%23081_Search-in-Rotated-Sorted-Array-II) |
