@@ -19,3 +19,4 @@
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
 | [069. Sqrt(x)](../../../solutions/%23069_Sqrt%28x%29) |
 | [070. Climbing Stairs](../../../solutions/%23070_Climbing-Stairs) |
+| [083. Remove Duplicates from Sorted List](../../../solutions/%23083_Remove-Duplicates-from-Sorted-List) |

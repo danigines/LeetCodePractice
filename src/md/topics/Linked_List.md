@@ -10,3 +10,4 @@
 | [025. Reverse Nodes in k-Group](../../../solutions/%23025_Reverse-Nodes-in-k-Group) |
 | [061. Rotate List](../../../solutions/%23061_Rotate-List) |
 | [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |
+| [083. Remove Duplicates from Sorted List](../../../solutions/%23083_Remove-Duplicates-from-Sorted-List) |
