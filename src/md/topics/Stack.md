@@ -6,3 +6,4 @@
 | [032. Longest Valid Parentheses](../../../solutions/%23032_Longest-Valid-Parentheses) |
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
 | [071. Simplify Path](../../../solutions/%23071_Simplify-Path) |
+| [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |

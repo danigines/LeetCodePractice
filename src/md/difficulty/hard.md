@@ -20,3 +20,4 @@
 | [065. Valid Number](../../../solutions/%23065_Valid-Number) |
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
 | [076. Minimum Window Substring](../../../solutions/%23076_Minimum-Window-Substring) |
+| [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |

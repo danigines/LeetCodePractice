@@ -3,3 +3,4 @@
 | # Problem |
 |:----|
 | [042. Trapping Rain Water](../../../solutions/%23042_Trapping-Rain-Water) |
+| [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |
