@@ -17,3 +17,4 @@
 | [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
 | [080. Remove Duplicates from Sorted Array II](../../../solutions/%23080_Remove-Duplicates-from-Sorted-Array-II) |
 | [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |
+| [086. Partition List](../../../solutions/%23086_Partition-List) |
