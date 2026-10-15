@@ -9,3 +9,4 @@
 | [049. Group Anagrams](../../../solutions/%23049_Group-Anagrams) |
 | [056. Merge Intervals](../../../solutions/%23056_Merge-Intervals) |
 | [075. Sort Colors](../../../solutions/%23075_Sort-Colors) |
+| [088. Merge Sorted Array](../../../solutions/%23088_Merge-Sorted-Array) |

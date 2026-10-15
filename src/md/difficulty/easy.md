@@ -20,3 +20,4 @@
 | [069. Sqrt(x)](../../../solutions/%23069_Sqrt%28x%29) |
 | [070. Climbing Stairs](../../../solutions/%23070_Climbing-Stairs) |
 | [083. Remove Duplicates from Sorted List](../../../solutions/%23083_Remove-Duplicates-from-Sorted-List) |
+| [088. Merge Sorted Array](../../../solutions/%23088_Merge-Sorted-Array) |
