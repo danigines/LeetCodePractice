@@ -21,3 +21,4 @@
 | [068. Text Justification](../../../solutions/%23068_Text-Justification) |
 | [076. Minimum Window Substring](../../../solutions/%23076_Minimum-Window-Substring) |
 | [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |
+| [085. Maximal Rectangle](../../../solutions/%23085_Maximal-Rectangle) |

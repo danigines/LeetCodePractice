@@ -45,3 +45,4 @@
 | [080. Remove Duplicates from Sorted Array II](../../../solutions/%23080_Remove-Duplicates-from-Sorted-Array-II) |
 | [081. Search in Rotated Sorted Array II](../../../solutions/%23081_Search-in-Rotated-Sorted-Array-II) |
 | [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |
+| [085. Maximal Rectangle](../../../solutions/%23085_Maximal-Rectangle) |

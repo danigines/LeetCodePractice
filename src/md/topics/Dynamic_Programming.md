@@ -16,3 +16,4 @@
 | [064. Minimum Path Sum](../../../solutions/%23064_Minimum-Path-Sum) |
 | [070. Climbing Stairs](../../../solutions/%23070_Climbing-Stairs) |
 | [072. Edit Distance](../../../solutions/%23072_Edit-Distance) |
+| [085. Maximal Rectangle](../../../solutions/%23085_Maximal-Rectangle) |
