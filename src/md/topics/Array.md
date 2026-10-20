@@ -47,3 +47,4 @@
 | [084. Largest Rectangle in Histogram](../../../solutions/%23084_Largest-Rectangle-in-Histogram) |
 | [085. Maximal Rectangle](../../../solutions/%23085_Maximal-Rectangle) |
 | [088. Merge Sorted Array](../../../solutions/%23088_Merge-Sorted-Array) |
+| [090. Subsets II](../../../solutions/%23090_Subsets-II) |
