@@ -5,3 +5,4 @@
 | [029. Divide Two Integers](../../../solutions/%23029_Divide-Two-Integers) |
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
 | [078. Subsets](../../../solutions/%23078_Subsets) |
+| [089. Gray Code](../../../solutions/%23089_Gray-Code) |

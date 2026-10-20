@@ -17,3 +17,4 @@
 | [067. Add Binary](../../../solutions/%23067_Add-Binary) |
 | [069. Sqrt(x)](../../../solutions/%23069_Sqrt%28x%29) |
 | [070. Climbing Stairs](../../../solutions/%23070_Climbing-Stairs) |
+| [089. Gray Code](../../../solutions/%23089_Gray-Code) |

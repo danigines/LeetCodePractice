@@ -14,3 +14,4 @@
 | [077. Combinations](../../../solutions/%23077_Combinations) |
 | [078. Subsets](../../../solutions/%23078_Subsets) |
 | [079. Word Search](../../../solutions/%23079_Word-Search) |
+| [089. Gray Code](../../../solutions/%23089_Gray-Code) |

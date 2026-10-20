@@ -56,3 +56,4 @@
 | [081. Search in Rotated Sorted Array II](../../../solutions/%23081_Search-in-Rotated-Sorted-Array-II) |
 | [082. Remove Duplicates from Sorted List II](../../../solutions/%23082_Remove-Duplicates-from-Sorted-List-II) |
 | [086. Partition List](../../../solutions/%23086_Partition-List) |
+| [089. Gray Code](../../../solutions/%23089_Gray-Code) |
